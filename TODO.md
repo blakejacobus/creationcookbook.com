@@ -1,1 +1,8 @@
-
+- [ ] HTML template
+- [ ] Design 
+- [ ] CSS
+- [ ] Tags
+- [ ] Table of Contents
+- [ ] Cookbook
+- [ ] Glossary
+- [ ] Source thumbnail
