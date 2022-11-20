@@ -8,27 +8,28 @@
 
 ## Names
 - `curiouscarnivore`
-- `earthvore` - includes animals; not just their byproducts
-- `gardencookbook` - owned
+- `earthvore` includes animals; not just their byproducts
+- `gardencookbook` owned
 - `goodguide` owned
-- `greenbook` - owned
-- `herbcookbook` - owned
-- `herblife` - owned
-- `herbtrainer` - owner
-- `veggiebook` - owned
-- `greenguru` - owned
-- `greenguide` - owned
-- `hungryherbivore` - owned
+- `greenbook` owned
+- `herbcookbook` owned
+- `herblife` owned
+- `herbtrainer` owner
+- `veggiebook` owned
+- `greenguru` owned
+- `greenguide` owned
+- `hungryherbivore` owned
 - `omnipotions` omnivores eat meat
+- `purepotions` owned
 - `senzucookbook`
 - `senzusensei`
-- `simplesoup` - owned
-- `simplestolenrecipes` - a bit long; no vegetarian relation
-- `tookbook` - owned
-- `vegmaster` - owned
-- `veggieprimer` - owned
-- `veggievolume` - owned
-- `veggievore` - owned
+- `simplesoup` owned
+- `simplestolenrecipes` a bit long; no vegetarian relation
+- `tookbook` owned
+- `vegmaster` owned
+- `veggieprimer` owned
+- `veggievolume` owned
+- `veggievore` owned
 
 ##  Site Contents
 
