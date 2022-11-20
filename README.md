@@ -1,13 +1,17 @@
 # Vegetarian Recipes
 
 ## Purpose
-- Recipes stolen from other sites
-- Plants and animal byproducts (vegan and vegetarian)
-- Simple presentation
+- A way to make the world a better place
 - Guide for fresh vegetarians and curious carnivores
+- Recipes stolen from other websites
+- Plant and animal products (vegan and vegetarian)
+- Simple presentation
 
 ## Names
+- **`creationcookbook`**
+- `cropcookbook`
 - `curiouscarnivore`
+- `earthgoodscookbook`
 - `earthvore` includes animals; not just their byproducts
 - `gardencookbook` owned
 - `goodguide` owned
