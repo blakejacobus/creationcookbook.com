@@ -1,9 +1,28 @@
 # Vegetarian Recipes
 
+## Traits
+- Recipes
+- Vegetarian/vegan
+- Health/fitness
+- Smart/searchable
+- ~~Simple
+- Guide for new vegetarians
+
 ## Names
+- `curiouscarnivore`
+- `earthvore`
+- ~~`gardencookbook` - owner by BuyDomains and too expensive
+- ~~`greenbook` - owned
+- ~~`veggiebook` - owned
+- ~~`greenguru` - owned
+- ~~`greenguide` - owned
+- ~~`hungryherbivore`
 - `simplestolenrecipes` - a bit long; no vegetarian relation
-- `gardencookbook` - owner by BuyDomains and too expensive
-- `greenbook` - already hosted
+- ~~`tookbook` - owned
+- `vegmaster`
+- ~~`veggieprimer`
+- ~~`veggievore`
+- ``
 
 ## Purpose
 
