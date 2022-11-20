@@ -1,35 +1,34 @@
 # Vegetarian Recipes
 
-## Traits
-- Recipes
-- Vegetarian/vegan
-- Health/fitness
-- Smart/searchable
-- ~~Simple~~
-- Guide for new vegetarians
+## Purpose
+- Recipes stolen from other sites
+- Plants and animal byproducts (vegan and vegetarian)
+- Simple presentation
+- Guide for fresh vegetarians and curious carnivores
 
 ## Names
 - `curiouscarnivore`
-- `earthvore`
+- `earthvore` - includes animals; not just their byproducts
 - `gardencookbook` - owned
 - `goodguide` owned
 - `greenbook` - owned
+- `herbcookbook` - owned
+- `herblife` - owned
+- `herbtrainer` - owner
 - `veggiebook` - owned
 - `greenguru` - owned
 - `greenguide` - owned
-- `hungryherbivore`
-- `omnipotions` *
+- `hungryherbivore` - owned
+- `omnipotions` omnivores eat meat
+- `senzucookbook`
+- `senzusensei`
+- `simplesoup`
 - `simplestolenrecipes` - a bit long; no vegetarian relation
 - `tookbook` - owned
-- `vegmaster`
-- `veggieprimer`
-- `veggievolume`
-- `veggievore`
-- ``
-
-## Purpose
-
-Website to share simple, stolen recipes for curious omnivores and dedicated herbivores.
+- `vegmaster` - owned
+- `veggieprimer` - owned
+- `veggievolume` - owned
+- `veggievore` - owned
 
 ##  Site Contents
 
