@@ -11,17 +11,20 @@
 ## Names
 - `curiouscarnivore`
 - `earthvore`
-- ~~`gardencookbook` - owner by BuyDomains and too expensive~~
-- ~~`greenbook` - owned~~
-- ~~`veggiebook` - owned~~
-- ~~`greenguru` - owned~~
-- ~~`greenguide` - owned~~
-- ~~`hungryherbivore`
+- `gardencookbook` - owned
+- `goodguide` owned
+- `greenbook` - owned
+- `veggiebook` - owned
+- `greenguru` - owned
+- `greenguide` - owned
+- `hungryherbivore`
+- `omnipotions` *
 - `simplestolenrecipes` - a bit long; no vegetarian relation
-- ~~`tookbook` - owned~~
+- `tookbook` - owned
 - `vegmaster`
-- ~~`veggieprimer`
-- ~~`veggievore`
+- `veggieprimer`
+- `veggievolume`
+- `veggievore`
 - ``
 
 ## Purpose
