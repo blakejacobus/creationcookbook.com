@@ -22,7 +22,7 @@
 - `omnipotions` omnivores eat meat
 - `senzucookbook`
 - `senzusensei`
-- `simplesoup`
+- `simplesoup` - owned
 - `simplestolenrecipes` - a bit long; no vegetarian relation
 - `tookbook` - owned
 - `vegmaster` - owned
