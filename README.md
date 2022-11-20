@@ -1,4 +1,9 @@
-# simple-stolen-recipes
+# Vegetarian Recipes
+
+## Names
+- `simplestolenrecipes` - a bit long; no vegetarian relation
+- `gardencookbook` - owner by BuyDomains and too expensive
+- `greenbook` - already hosted
 
 ## Purpose
 
