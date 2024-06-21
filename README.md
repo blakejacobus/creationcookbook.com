@@ -1,13 +1,13 @@
 # Vegetarian Recipes
 
 ## Purpose
-- A way to make the world a better place
 - Guide for fresh vegetarians and curious carnivores
-- Recipes stolen from other websites
 - Plant and animal products (vegan and vegetarian)
-- Simple presentation
+- Provide source URLs if adopted from other sites
+- Simple, common layout
+- Tags for searching
 
-## Names
+## Name Ideas
 - **`creationcookbook`**
 - `cropcookbook`
 - `curiouscarnivore`
