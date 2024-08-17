@@ -1,8 +1,7 @@
-- [ ] HTML template
-- [ ] Design 
+- [ ] Templating: https://jekyllrb.com/docs/step-by-step/06-data-files/
+- [ ] Design
 - [ ] CSS
 - [ ] Tags
 - [ ] Table of Contents
-- [ ] Cookbook
 - [ ] Glossary
-- [ ] Source thumbnail
+- [ ] Create logo/favicon
