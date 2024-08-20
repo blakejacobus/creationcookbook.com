@@ -1,7 +1,6 @@
-- [ ] Templating: https://jekyllrb.com/docs/step-by-step/06-data-files/
-- [ ] Design
-- [ ] CSS
-- [ ] Tags
-- [ ] Table of Contents
-- [ ] Glossary
-- [ ] Create logo/favicon
+- [x] [Templating](https://jekyllrb.com/docs/step-by-step/)
+- [x] [Domain configuration](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
+- [ ] **Design icon, layout, and colors**
+- [ ] Implement *CSS*
+- [ ] Plan and implement *tags*
+- [ ] Develop *glossary*
