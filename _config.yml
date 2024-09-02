@@ -1,3 +1,59 @@
+# Create custom collections to sort post types
+# https://jekyllrb.com/docs/step-by-step/09-collections/
+
 collections:
-  recipes:
+  breakfast:
     output: true
+  lunch:
+    output: true
+  dinner:
+    output: true
+  sides:
+    output: true
+  desserts:
+    output: true
+  drinks:
+    output: true
+
+# Configure default layouts based on collection
+
+defaults:
+  - scope:
+      path: ""
+      type: "breakfast"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "lunch"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "dinner"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "sides"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "dessert"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "drinks"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
