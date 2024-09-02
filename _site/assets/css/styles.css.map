@@ -7,7 +7,7 @@
 	],
 	"sourcesContent": [
 		"// The empty front matter at the top tells Jekyll it needs to process the file. \n@import \"main\"; // Don't bother trying to fix this error",
-		"// Primary stylesheet; imported from assets/css/styles.scss\n.current {\n    color: green;\n  }\n\nimg {\n  width: 50%;\n}\n\n"
+		"// Primary stylesheet; imported from assets/css/styles.scss\n.current {\n    color: green;\n  }\n\nimg {\n  width: 30%;\n}\n\n"
 	],
 	"names": [],
 	"mappings": "ACCA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;AAEH,AAAA,GAAG,CAAC,EACF,KAAK,EAAE,GAAG,GACX"

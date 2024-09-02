@@ -1,0 +1,66 @@
+---
+layout: default
+title: Cookbook
+---
+
+<h1>Cookbook</h1>
+
+<h2> Breakfast </h2>
+
+<ul>
+  {% for breakfast in site.breakfast %}
+  <li>
+    <p><a href="{{ breakfast.url }}">{{ breakfast.name }}</a> ~ {{ breakfast.date | date_to_string: "ordinal", "US" }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2> Lunch </h2>
+
+<ul>
+  {% for lunch in site.lunch %}
+  <li>
+    <p><a href="{{ lunch.url }}">{{ lunch.name }}</a> ~ {{ lunch.date | date_to_string: "ordinal", "US" }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2> Dinner </h2>
+
+<ul>
+  {% for dinner in site.dinner %}
+  <li>
+    <p><a href="{{ dinner.url }}">{{ dinner.name }}</a> ~ {{ dinner.date | date_to_string: "ordinal", "US" }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2> Sides </h2>
+
+<ul>
+  {% for sides in site.sides %}
+  <li>
+    <p><a href="{{ sides.url }}">{{ sides.name }}</a> ~ {{ sides.date | date_to_string: "ordinal", "US" }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2> Desserts </h2>
+
+<ul>
+  {% for desserts in site.desserts %}
+  <li>
+    <p><a href="{{ desserts.url }}">{{ desserts.name }}</a> ~ {{ desserts.date | date_to_string: "ordinal", "US" }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2> Drinks </h2>
+
+<ul>
+  {% for drinks in site.drinks %}
+  <li>
+    <p><a href="{{ drinks.url }}">{{ drinks.name }}</a> ~ {{ drinks.date | date_to_string: "ordinal", "US" }}</p>
+  </li>
+  {% endfor %}
+</ul>

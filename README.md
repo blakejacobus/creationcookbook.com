@@ -5,12 +5,6 @@
 - Guide for fresh vegetarians and curious carnivores
 - Plant and animal products (vegan and/or vegetarian)
 
-## Contents
-
-- Index of all recipes and tags
-- Collections of recipes based on tags (ex. dinner, dessert, drink)
-- Glossary of terms and substitions
-
 ## Local Host
 
 > https://jekyllrb.com/docs/
@@ -21,3 +15,23 @@ Install [Ruby, Jekyll, and Bundler](https://jekyllrb.com/docs/installation/#requ
 bundle exec jekyll build
 bundle exec jekyll serve
 ```
+
+## TODO
+
+### Setup
+
+- [x] [Templating](https://jekyllrb.com/docs/step-by-step/)
+- [x] [Domain configuration](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
+
+### Content
+
+- [x] HTML templates/layouts
+- [x] Migrate recipes from www.blakejacobus.com
+- [ ] Rename and date migrated recipes
+
+### Design
+
+- [ ] Add styling for markdown tables in `recipe` docs
+- [ ] Design and develop home screen buttons
+- [ ] Add default font and spacing
+- [ ] Add light/dark modes

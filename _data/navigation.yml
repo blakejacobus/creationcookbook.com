@@ -2,7 +2,7 @@
   link: /
 - name: About
   link: /about.html
-- name: Log
-  link: /blog.html
-- name: Recipes
-  link: /recipes.html
+- name: Cookbook
+  link: /cookbook.html
+- name: Guide
+  link: /posts.html
