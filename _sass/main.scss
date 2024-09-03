@@ -7,3 +7,19 @@ img {
   width: 30%;
 }
 
+table, th, td {
+  border: 1px solid;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+  text-align: center
+}
+
+tr:nth-child(even) {background-color: #dddddd;}
+
+th {
+  background-color: #aaaaaa;
+}
