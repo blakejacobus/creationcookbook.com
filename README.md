@@ -27,7 +27,8 @@ bundle exec jekyll serve
 
 - [x] HTML templates/layouts
 - [x] Migrate recipes from www.blakejacobus.com
-- [ ] Rename and date migrated recipes
+- [x] Rename and date migrated recipes
+- [ ] Digitize remaining recipes
 
 ### Design
 
