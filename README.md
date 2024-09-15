@@ -32,7 +32,12 @@ bundle exec jekyll serve
 
 ### Design
 
-- [ ] Add styling for markdown tables in `recipe` docs
-- [ ] Design and develop home screen buttons
+- [x] Add styling for markdown tables in `recipe` docs
+- [ ] Create custom stylesheet for homepage (`index.scss`)
+    - Centered content
+    - Light brown background (book cover)
+    - Buttons clockwise around the tree: Cookbook > About > Reference (no bottom)
+    - Remove top nav
+- [ ] Update default stylesheet (`main.scss`)
+    - Light yellow background (book page)
 - [ ] Add default font and spacing
-- [ ] Add light/dark modes

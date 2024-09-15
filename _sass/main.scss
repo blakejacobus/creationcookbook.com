@@ -1,10 +1,48 @@
 // Primary stylesheet; imported from assets/css/styles.scss
-.current {
-    color: green;
-  }
+
+
+body {
+  background-color: #eddd8c;
+}
 
 img {
   width: 30%;
+}
+
+.about-button { /* https://www.w3schools.com/css/css3_buttons.asp */
+  background-color: #cf7f7f;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.cookbook-button { /* https://www.w3schools.com/css/css3_buttons.asp */
+  background-color: #6e8bb1;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.reference-button { /* https://www.w3schools.com/css/css3_buttons.asp */
+  background-color: #b4b4b4;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 table, th, td {
@@ -22,4 +60,9 @@ tr:nth-child(even) {background-color: #dddddd;}
 
 th {
   background-color: #aaaaaa;
+}
+
+/* Colors link of current page */
+.current {
+  color: green;
 }
