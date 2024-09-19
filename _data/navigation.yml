@@ -1,8 +1,6 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
 - name: Cookbook
   link: /cookbook.html
-- name: Reference
+- name: Articles
   link: /posts.html
