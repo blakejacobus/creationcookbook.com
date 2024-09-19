@@ -28,16 +28,16 @@ bundle exec jekyll serve
 - [x] HTML templates/layouts
 - [x] Migrate recipes from www.blakejacobus.com
 - [x] Rename and date migrated recipes
-- [ ] Digitize remaining recipes
+- [ ] **Digitize remaining recipes**
 
 ### Design
 
 - [x] Add styling for markdown tables in `recipe` docs
-- [ ] Create custom stylesheet for homepage (`index.scss`)
-    - Centered content
-    - Light brown background (book cover)
-    - Buttons clockwise around the tree: Cookbook > About > Reference (no bottom)
-    - Remove top nav
-- [ ] Update default stylesheet (`main.scss`)
-    - Light yellow background (book page)
-- [ ] Add default font and spacing
+- [x] Create custom styling for homepage
+- [ ] **Create custom styling for navigation bar**
+- [ ] Select and configure font
+- [ ] Add consistent padding/spacing
+
+![alt text](assets/images/version_1.png)
+
+![alt text](assets/images/version_2.png)

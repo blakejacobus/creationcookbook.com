@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: index
 title: Home
 ---
 
-<img src="./assets/images/cc_tree.svg" alt="Creation Cookbook tree icon">
-
-<a href="{% link cookbook.html %}" class="cookbook-button">Cookbook</a>
-
-<a href="{% link cookbook.html %}" class="reference-button">Reference</a>
-
-<a href="{% link cookbook.html %}" class="about-button">About</a>
+<div class="container">
+    <img src="./assets/images/cc_tree.svg" alt="Creation Cookbook tree icon" class="image">
+    <div class="left">
+        <a href="{% link cookbook.html %}" class="button">Cook</a>
+    </div>
+    <div class="right">
+        <a href="{% link posts.html %}" class="button">Read</a>
+    </div>
+</div>

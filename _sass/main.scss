@@ -1,48 +1,30 @@
 // Primary stylesheet; imported from assets/css/styles.scss
 
+header {
+  font-size: 250%;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+nav {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
 
 body {
-  background-color: #eddd8c;
+  background-color: #ffea84;
 }
 
-img {
-  width: 30%;
-}
-
-.about-button { /* https://www.w3schools.com/css/css3_buttons.asp */
-  background-color: #cf7f7f;
-  border: none;
-  border-radius: 10px;
-  color: white;
-  padding: 15px 32px;
+footer {
+  background-color: #ffea84;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(0, 0, 0);
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
-.cookbook-button { /* https://www.w3schools.com/css/css3_buttons.asp */
-  background-color: #6e8bb1;
-  border: none;
-  border-radius: 10px;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
-.reference-button { /* https://www.w3schools.com/css/css3_buttons.asp */
-  background-color: #b4b4b4;
-  border: none;
-  border-radius: 10px;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
 }
 
 table, th, td {
@@ -65,4 +47,37 @@ th {
 /* Colors link of current page */
 .current {
   color: green;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%; /* Ensures the image is responsive */
+  width: 60%;
+}
+
+.button { /* https://www.w3schools.com/css/css3_buttons.asp */
+  border: none;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 250%;
+  text-decoration: none; // removes underline
+}
+
+.left {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+}
+
+.right {
+  position: absolute;
+  top: 50%;
+  right: 5%;
 }
