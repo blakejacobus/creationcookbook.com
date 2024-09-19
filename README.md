@@ -37,3 +37,7 @@ bundle exec jekyll serve
 - [ ] **Create custom styling for navigation bar**
 - [ ] Select and configure font
 - [ ] Add consistent padding/spacing
+
+![alt text](assets/images/version_1.png)
+
+![alt text](assets/images/version_2.png)
