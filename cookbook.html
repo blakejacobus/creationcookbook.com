@@ -10,7 +10,7 @@ title: Cookbook
 <ul>
   {% for breakfast in site.breakfast %}
   <li>
-    <p><a href="{{ breakfast.url }}">{{ breakfast.name }}</a> ~ {{ breakfast.date | date_to_string: "ordinal", "US" }}</p>
+    <p><a href="{{ breakfast.url }}">{{ breakfast.name }}</a></p>
   </li>
   {% endfor %}
 </ul>
@@ -20,7 +20,7 @@ title: Cookbook
 <ul>
   {% for lunch in site.lunch %}
   <li>
-    <p><a href="{{ lunch.url }}">{{ lunch.name }}</a> ~ {{ lunch.date | date_to_string: "ordinal", "US" }}</p>
+    <p><a href="{{ lunch.url }}">{{ lunch.name }}</a>
   </li>
   {% endfor %}
 </ul>
@@ -30,7 +30,7 @@ title: Cookbook
 <ul>
   {% for dinner in site.dinner %}
   <li>
-    <p><a href="{{ dinner.url }}">{{ dinner.name }}</a> ~ {{ dinner.date | date_to_string: "ordinal", "US" }}</p>
+    <p><a href="{{ dinner.url }}">{{ dinner.name }}</a>
   </li>
   {% endfor %}
 </ul>
@@ -40,7 +40,7 @@ title: Cookbook
 <ul>
   {% for sides in site.sides %}
   <li>
-    <p><a href="{{ sides.url }}">{{ sides.name }}</a> ~ {{ sides.date | date_to_string: "ordinal", "US" }}</p>
+    <p><a href="{{ sides.url }}">{{ sides.name }}</a>
   </li>
   {% endfor %}
 </ul>
@@ -50,7 +50,7 @@ title: Cookbook
 <ul>
   {% for desserts in site.desserts %}
   <li>
-    <p><a href="{{ desserts.url }}">{{ desserts.name }}</a> ~ {{ desserts.date | date_to_string: "ordinal", "US" }}</p>
+    <p><a href="{{ desserts.url }}">{{ desserts.name }}</a>
   </li>
   {% endfor %}
 </ul>
