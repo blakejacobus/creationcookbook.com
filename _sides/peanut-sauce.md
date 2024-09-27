@@ -1,6 +1,7 @@
 ---
-layout: post
-tags: [eat, recipe]
+name: Peanut Sauce
+date: 2024-07-01
+tags: [eat, recipe, side]
 ---
 
 # Peanut Sauce
