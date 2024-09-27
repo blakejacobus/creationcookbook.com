@@ -1,6 +1,6 @@
 ---
-name: Title
-date: yyyy-mm-dd
+name: Lasagna
+date: 2024-09-27
 tags: [eat, recipe]
 ---
 
