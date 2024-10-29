@@ -3,24 +3,51 @@
 // Color pallete
 // https://www.w3schools.com/colors/colors_palettes.asp
 // HEX: #b9936c Dark brown
-// HEX: #dac292 Light brown
-// HEX: #e6e2d3 Light grey
+// HEX: #dac292 Light brown 
+// HEX: #e6e2d3 Light grey // Background color only
 // HEX: #c4b7a6 Dark grey
 
+/* unvisited link */
+a:link {
+  color: #b9936c;
+  margin: 8px;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #dac292;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #b9936c;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: #c4b7a6;
+  text-decoration: underline;
+}
+
 header {
-  font-size: 300%;
+  color: #b9936c;
+  font-size: 400%;
   font-family: 'Brush Script MT', cursive;
   padding-bottom: 5%;
   padding-top: 5%;
   text-align: center;
-
 }
 
 h1 {
+  color: #b9936c;
   font-family: 'Brush Script MT', cursive;
 }
 
 h2 {
+  color: #b9936c;
   font-family: 'Brush Script MT', cursive;
 }
 
@@ -32,15 +59,16 @@ nav {
 }
 
 body {
-  background-color: #dac292;
+  background-color: #e6e2d3;
   font-family: 'Courier New';
   line-height: 1.5;
   padding: 5%;
 }
 
 footer {
+  background-color: #e6e2d3;
   bottom: 0; // Positions footer relative to bottom
-  background-color: #b9936c;
+  color: #b9936c;
   font-family: 'Courier New', monospace;
   left: 0; // Positions footer relative to left
   position: fixed;
@@ -69,11 +97,6 @@ th {
   background-color: #c4b7a6;
 }
 
-/* Colors link of current page */
-.current {
-  color: #e6e2d3;
-}
-
 .container {
   align-items: center;
   display: flex;
@@ -84,7 +107,6 @@ th {
   margin-left: auto;
   margin-right: auto;
   max-width: 90%;
-  /* Ensures the image is responsive */
   width: 55%;
 }
 
@@ -92,7 +114,6 @@ th {
   /* https://www.w3schools.com/css/css3_buttons.asp */
   border: none;
   border-radius: 10px;
-  color: rgb(0, 0, 0);
   font-family: 'Brush Script MT', cursive;
   font-size: 300%;
   text-decoration: none; // removes underline
