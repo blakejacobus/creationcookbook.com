@@ -8,24 +8,40 @@
 // HEX: #c4b7a6 Dark grey
 
 header {
-  font-size: 250%;
+  font-size: 300%;
+  font-family: 'Brush Script MT', cursive;
   text-align: center;
   padding-top: 5%;
   padding-bottom: 5%;
+}
+
+h1 {
+  font-family: 'Brush Script MT', cursive;
+}
+
+h2 {
+  font-family: 'Brush Script MT', cursive;
 }
 
 nav {
   text-align: center;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 250%;
+  padding: 2%;
+  // padding-top: 5%;
+  // padding-bottom: 5%;
 }
 
 body {
+  font-family: 'Courier New';
+  // font-size: 150%;
   background-color: #dac292;
+  line-height: 1.5;
   padding: 5%;
 }
 
 footer {
+  font-family: 'Brush Script MT', cursive;
   background-color: #b9936c;
   position: fixed;
   left: 0;
@@ -80,7 +96,8 @@ th {
   border: none;
   border-radius: 10px;
   color: rgb(0, 0, 0);
-  font-size: 250%;
+  font-size: 300%;
+  font-family: 'Brush Script MT', cursive;
   text-decoration: none; // removes underline
 }
 
