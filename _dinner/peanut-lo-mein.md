@@ -8,16 +8,18 @@ tags: [eat, recipe]
 
 ## Ingredients
 
+Requires creation of [Peanut sauce]({% link _sides/peanut-sauce.md %}), as well.
+
 | Serving | Ingredient | Notes |
 |-|-|-|
 | 2 crowns | Broccoli |  |
 | 2 whole | Bell pepper |  |
 | 1/2 bag | Shredded carrots |  |
 | 2-4 bundles | Lo mein | 2-4 servings if not bundled in packaging |
-| [Peanut sauce](./peanut-sauce) |  | See recipe |
 
 ## Instructions
 
+1. Prepare [peanut sauce]({% link _sides/peanut-sauce.md %})
 1. Chop broccoli and bell pepper into roughly half-inch squares
 1. Boil medium pot of water for noodles
 1. Steam veggies in a large, covered pan with olive oil until tender

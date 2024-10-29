@@ -10,13 +10,12 @@
 /* unvisited link */
 a:link {
   color: #b9936c;
-  margin: 8px;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #dac292;
+  color: #b9936c;
   text-decoration: none;
 }
 
@@ -30,6 +29,24 @@ a:hover {
 a:active {
   color: #c4b7a6;
   text-decoration: underline;
+}
+
+body {
+  background-color: #e6e2d3;
+  font-family: 'Courier New';
+  line-height: 1.5;
+  padding: 5%;
+}
+
+footer {
+  background-color: #e6e2d3;
+  bottom: 0; // Positions footer relative to bottom
+  color: #b9936c;
+  font-family: 'Courier New', monospace;
+  left: 0; // Positions footer relative to left
+  position: fixed;
+  text-align: center;
+  width: 100%;
 }
 
 header {
@@ -56,24 +73,8 @@ nav {
   font-size: 250%;
   padding: 2%;
   text-align: center;
-}
-
-body {
-  background-color: #e6e2d3;
-  font-family: 'Courier New';
-  line-height: 1.5;
-  padding: 5%;
-}
-
-footer {
-  background-color: #e6e2d3;
-  bottom: 0; // Positions footer relative to bottom
-  color: #b9936c;
-  font-family: 'Courier New', monospace;
-  left: 0; // Positions footer relative to left
-  position: fixed;
-  text-align: center;
-  width: 100%;
+  display:flex;
+  justify-content:center;
 }
 
 table,
@@ -97,6 +98,21 @@ th {
   background-color: #c4b7a6;
 }
 
+ul { // Used for nav styling
+  list-style-type: none;
+  margin: 0;
+  padding: 5;
+}
+
+.button {
+  /* https://www.w3schools.com/css/css3_buttons.asp */
+  border: none;
+  border-radius: 10px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 300%;
+  text-decoration: none; // removes underline
+}
+
 .container {
   align-items: center;
   display: flex;
@@ -108,15 +124,6 @@ th {
   margin-right: auto;
   max-width: 90%;
   width: 55%;
-}
-
-.button {
-  /* https://www.w3schools.com/css/css3_buttons.asp */
-  border: none;
-  border-radius: 10px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 300%;
-  text-decoration: none; // removes underline
 }
 
 .left {
