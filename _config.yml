@@ -4,16 +4,22 @@
 collections:
   breakfast:
     output: true
+    sort_by: name
   lunch:
     output: true
+    sort_by: name
   dinner:
     output: true
+    sort_by: name
   sides:
     output: true
+    sort_by: name
   desserts:
     output: true
+    sort_by: name
   drinks:
     output: true
+    sort_by: name
 
 # Configure default layouts based on collection
 

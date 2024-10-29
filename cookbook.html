@@ -7,60 +7,62 @@ title: Cookbook
 
 <h2> Breakfast </h2>
 
-<ul>
-  {% for breakfast in site.breakfast %}
-  <li>
-    <p><a href="{{ breakfast.url }}">{{ breakfast.name }}</a></p>
-  </li>
-  {% endfor %}
-</ul>
+<body>
+  <ul>
+    {% for breakfast in site.breakfast %}
+    <li>
+      <p><a href="{{ breakfast.url }}">{{ breakfast.name }}</a></p>
+    </li>
+    {% endfor %}
+  </ul>
 
-<h2> Lunch </h2>
+  <h2> Lunch </h2>
 
-<ul>
-  {% for lunch in site.lunch %}
-  <li>
-    <p><a href="{{ lunch.url }}">{{ lunch.name }}</a>
-  </li>
-  {% endfor %}
-</ul>
+  <ul>
+    {% for lunch in site.lunch %}
+    <li>
+      <p><a href="{{ lunch.url }}">{{ lunch.name }}</a></p>
+    </li>
+    {% endfor %}
+  </ul>
 
-<h2> Dinner </h2>
+  <h2> Dinner </h2>
 
-<ul>
-  {% for dinner in site.dinner %}
-  <li>
-    <p><a href="{{ dinner.url }}">{{ dinner.name }}</a>
-  </li>
-  {% endfor %}
-</ul>
+  <ul>
+    {% for dinner in site.dinner %}
+    <li>
+      <p><a href="{{ dinner.url }}">{{ dinner.name }}</a></p>
+    </li>
+    {% endfor %}
+  </ul>
 
-<h2> Sides </h2>
+  <h2> Sides </h2>
 
-<ul>
-  {% for sides in site.sides %}
-  <li>
-    <p><a href="{{ sides.url }}">{{ sides.name }}</a>
-  </li>
-  {% endfor %}
-</ul>
+  <ul>
+    {% for sides in site.sides %}
+    <li>
+      <p><a href="{{ sides.url }}">{{ sides.name }}</a></p>
+    </li>
+    {% endfor %}
+  </ul>
 
-<h2> Desserts </h2>
+  <h2> Desserts </h2>
 
-<ul>
-  {% for desserts in site.desserts %}
-  <li>
-    <p><a href="{{ desserts.url }}">{{ desserts.name }}</a>
-  </li>
-  {% endfor %}
-</ul>
+  <ul>
+    {% for desserts in site.desserts %}
+    <li>
+      <p></p><a href="{{ desserts.url }}">{{ desserts.name }}</a></p>
+    </li>
+    {% endfor %}
+  </ul>
 
-<h2> Drinks </h2>
+  <h2> Drinks </h2>
 
-<ul>
-  {% for drinks in site.drinks %}
-  <li>
-    <p><a href="{{ drinks.url }}">{{ drinks.name }}</a> ~ {{ drinks.date | date_to_string: "ordinal", "US" }}</p>
-  </li>
-  {% endfor %}
-</ul>
+  <ul>
+    {% for drinks in site.drinks %}
+    <li>
+      <p><a href="{{ drinks.url }}">{{ drinks.name }}</a></p>
+    </li>
+    {% endfor %}
+  </ul>
+</body>
