@@ -41,3 +41,5 @@ bundle exec jekyll serve
 ![alt text](assets/images/version_1.png)
 
 ![alt text](assets/images/version_2.png)
+
+![alt text](assets/version_3a.png) ![alt text](assets/version_3b.png)
