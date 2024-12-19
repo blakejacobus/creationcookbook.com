@@ -1,46 +1,42 @@
 // Primary stylesheet; imported from assets/css/styles.scss
 
 // Color pallete
-// https://www.w3schools.com/colors/colors_palettes.asp
-// HEX: #b9936c Dark brown
-// HEX: #dac292 Light brown 
-// HEX: #e6e2d3 Light grey // Background color only
-// HEX: #c4b7a6 Dark grey
+// https://www.color-hex.com/color-palette/1037480
 
 /* unvisited link */
 a:link {
-  color: #b9936c;
+  color: #1d120d;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #b9936c;
+  color: #1d120d;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: #b9936c;
+  color: #f76433;
   text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-  color: #c4b7a6;
+  color: #94d46f;
   text-decoration: underline;
 }
 
 body {
-  background-color: #e6e2d3;
+  background-color: #ffb252;
   font-family: 'Courier New';
   line-height: 1.5;
   padding: 1%;
 }
 
 footer {
-  background-color: #e6e2d3;
-  color: #b9936c;
+  background-color: #ffb252;
+  color: #1d120d;
   font-family: 'Courier New', monospace;
   left: 0; // Positions footer relative to left
   padding: 2%;
@@ -50,7 +46,7 @@ footer {
 }
 
 header {
-  color: #b9936c;
+  color: #f76433;
   font-size: 300%;
   font-family: 'Brush Script MT', cursive;
   padding-bottom: 5%;
@@ -59,12 +55,12 @@ header {
 }
 
 h1 {
-  color: #b9936c;
+  color: #f76433;
   font-family: 'Brush Script MT', cursive;
 }
 
 h2 {
-  color: #b9936c;
+  color: #f76433;
   font-family: 'Brush Script MT', cursive;
 }
 
@@ -90,13 +86,13 @@ table {
 }
 
 tr {
-  background-color: #e6e2d3;
+  background-color: #ffb252;
 }
 
 th {
-  background-color: #c4b7a6;
-  color: #e6e2d3;
-  border: #c4b7a6;
+  background-color: #94d46f;
+  color: #1d120d;
+  border: #1d120d;
 }
 
 ul { // Used for nav styling
