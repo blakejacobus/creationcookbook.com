@@ -1,73 +1,74 @@
 // Primary stylesheet; imported from assets/css/styles.scss
 
 // Color pallete
-// https://www.color-hex.com/color-palette/1037480
+// https://coolors.co/9bc995-ffb86f-986c6a-465c69-2d3047
 
 /* unvisited link */
 a:link {
-  color: #1d120d;
+  color: #465C69;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #1d120d;
+  color: #465C69;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: #f76433;
+  color: #2D3047;
   text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-  color: #94d46f;
+  color: #465C69;
   text-decoration: underline;
 }
 
 body {
-  background-color: #ffb252;
+  background-color: #9BC995;
+  color: #2D3047;
   font-family: 'Courier New';
   line-height: 1.5;
   padding: 1%;
 }
 
 footer {
-  background-color: #ffb252;
-  color: #1d120d;
-  font-family: 'Courier New', monospace;
-  left: 0; // Positions footer relative to left
-  padding: 2%;
-  position: relative;
+  background-color: #9BC995;
+  color: #2D3047;
+  font-family: 'Courier New';
+  padding: 2px;
+  // position: relative;
+  // left: 0; // Positions footer relative to left
   text-align: center;
   width: 100%;
 }
 
 header {
-  color: #f76433;
+  color: #2D3047;
   font-size: 300%;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Courier New';
   padding-bottom: 5%;
   padding-top: 5%;
   text-align: center;
 }
 
 h1 {
-  color: #f76433;
-  font-family: 'Brush Script MT', cursive;
+  color: #986C6A;
+  font-family: 'Courier New';
 }
 
 h2 {
-  color: #f76433;
-  font-family: 'Brush Script MT', cursive;
+  color: #465C69;
+  font-family: 'Courier New';
 }
 
 nav {
-  font-family: 'Brush Script MT', cursive;
-  font-size: 200%;
-  padding: 1%;
+  font-family: 'Courier New';
+  font-size: 300%;
+  // padding: 5px;
   display:flex;
   justify-content:center;
 }
@@ -76,30 +77,29 @@ table,
 th,
 td {
   border: 1px solid;
-  padding: 3px;
+  border-collapse: collapse;
+  border-color:#2D3047;
+  padding: 10px;
 }
 
 table {
-  border-collapse: collapse;
-  text-align: center;
   width: 100%;
 }
 
-tr {
-  background-color: #ffb252;
+th {
+  background-color: #986C6A;
+  color: #FFB86F;
+  text-align: left;
 }
 
-th {
-  background-color: #94d46f;
-  color: #1d120d;
-  border: #1d120d;
-}
+// tr {
+// }
 
 .button {
   /* https://www.w3schools.com/css/css3_buttons.asp */
-  border: none;
-  border-radius: 10px;
-  font-family: 'Brush Script MT', cursive;
+  // border: none;
+
+  font-family: 'Courier New';
   font-size: 250%;
   text-decoration: none; // removes underline
 }
@@ -107,7 +107,7 @@ th {
 .container {
   align-items: center;
   display: flex;
-  position: relative;
+  // position: relative;
 }
 
 .image {
