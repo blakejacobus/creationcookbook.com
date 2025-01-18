@@ -5,64 +5,84 @@ title: Cookbook
 
 <h1>Cookbook</h1>
 
-<h2> Breakfast </h2>
-
 <body>
-  <ul>
-    {% for breakfast in site.breakfast %}
-    <li>
-      <p><a href="{{ breakfast.url }}">{{ breakfast.name }}</a></p>
-    </li>
-    {% endfor %}
-  </ul>
+
+  <h2> Breakfast </h2>
+
+  <details>
+    <summary>Expand</summary>
+    <ul>
+      {% for breakfast in site.breakfast %}
+      <li>
+        <p><a href="{{ breakfast.url }}">{{ breakfast.name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
 
   <h2> Lunch </h2>
 
-  <ul>
-    {% for lunch in site.lunch %}
-    <li>
-      <p><a href="{{ lunch.url }}">{{ lunch.name }}</a></p>
-    </li>
-    {% endfor %}
-  </ul>
+  <details>
+    <summary>Expand</summary>
+    <ul>
+      {% for lunch in site.lunch %}
+      <li>
+        <p><a href="{{ lunch.url }}">{{ lunch.name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
 
   <h2> Dinner </h2>
 
-  <ul>
-    {% for dinner in site.dinner %}
-    <li>
-      <p><a href="{{ dinner.url }}">{{ dinner.name }}</a></p>
-    </li>
-    {% endfor %}
-  </ul>
+  <details>
+    <summary>Expand</summary>
+    <ul>
+      {% for dinner in site.dinner %}
+      <li>
+        <p><a href="{{ dinner.url }}">{{ dinner.name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
 
   <h2> Sides </h2>
 
-  <ul>
-    {% for sides in site.sides %}
-    <li>
-      <p><a href="{{ sides.url }}">{{ sides.name }}</a></p>
-    </li>
-    {% endfor %}
-  </ul>
+  <details>
+    <summary>Expand</summary>
+    <ul>
+      {% for sides in site.sides %}
+      <li>
+        <p><a href="{{ sides.url }}">{{ sides.name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
 
   <h2> Desserts </h2>
 
-  <ul>
-    {% for desserts in site.desserts %}
-    <li>
-      <p></p><a href="{{ desserts.url }}">{{ desserts.name }}</a></p>
-    </li>
-    {% endfor %}
-  </ul>
+  <details>
+    <summary>Expand</summary>
+    <ul>
+      {% for desserts in site.desserts %}
+      <li>
+        <p></p><a href="{{ desserts.url }}">{{ desserts.name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
 
   <h2> Drinks </h2>
 
-  <ul>
-    {% for drinks in site.drinks %}
-    <li>
-      <p><a href="{{ drinks.url }}">{{ drinks.name }}</a></p>
-    </li>
-    {% endfor %}
-  </ul>
+  <details>
+    <summary>Expand</summary>
+    <ul>
+      {% for drinks in site.drinks %}
+      <li>
+        <p><a href="{{ drinks.url }}">{{ drinks.name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+
 </body>

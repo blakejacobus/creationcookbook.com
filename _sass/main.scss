@@ -40,15 +40,15 @@ footer {
   color: #2D3047;
   font-family: 'Courier New';
   padding: 2px;
-  // position: relative;
-  // left: 0; // Positions footer relative to left
+  position: relative;
+  left: 0; // Positions footer relative to left
   text-align: center;
   width: 100%;
 }
 
 header {
   color: #2D3047;
-  font-size: 300%;
+  font-size: 250%;
   font-family: 'Courier New';
   padding-bottom: 5%;
   padding-top: 5%;
@@ -67,9 +67,9 @@ h2 {
 
 nav {
   font-family: 'Courier New';
-  font-size: 300%;
-  display:flex;
-  justify-content:center;
+  font-size: 250%;
+  display: flex;
+  justify-content: center;
 }
 
 table,
@@ -98,7 +98,7 @@ th {
   /* https://www.w3schools.com/css/css3_buttons.asp */
   // border: none;
   font-family: 'Courier New';
-  font-size: 250%;
+  font-size: 200%;
   text-decoration: none; // removes underline
 }
 
