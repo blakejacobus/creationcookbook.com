@@ -68,7 +68,6 @@ h2 {
 nav {
   font-family: 'Courier New';
   font-size: 300%;
-  // padding: 5px;
   display:flex;
   justify-content:center;
 }
@@ -98,7 +97,6 @@ th {
 .button {
   /* https://www.w3schools.com/css/css3_buttons.asp */
   // border: none;
-
   font-family: 'Courier New';
   font-size: 250%;
   text-decoration: none; // removes underline
@@ -107,7 +105,7 @@ th {
 .container {
   align-items: center;
   display: flex;
-  // position: relative;
+  position: relative;
 }
 
 .image {
