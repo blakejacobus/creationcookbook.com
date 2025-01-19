@@ -1,5 +1,3 @@
-<nav>
-  {% for item in site.data.navigation %}
-  <ul style="list-style-type:none;"><a href="{{ item.link }}"><h1>{{ item.name }}</h1></a></ul>
-  {% endfor %}
-</nav>
+{% for item in site.data.navigation %}
+<ul style="list-style-type:none;"><a href="{{ item.link }}"><h1>{{ item.name }}</h1></a></ul>
+{% endfor %}
