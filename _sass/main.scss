@@ -46,19 +46,12 @@ footer {
   width: 100%;
 }
 
-header {
-  color: #2D3047;
-  font-family: 'Courier New';
-  // font-size: 150%;
-  // padding-bottom: 5%;
-  // padding-top: 5%;
-  text-align: center;
-}
-
 h1 {
   color: #2D3047;
   font-family: 'Courier New';
+  justify-content: center;
   text-align: center;
+  display: flex;
 }
 
 h2 {
@@ -69,12 +62,6 @@ h2 {
 h3 {
   color: #465C69;
   font-family: 'Courier New';
-}
-
-nav {
-  font-family: 'Courier New';
-  display: flex;
-  justify-content: center;
 }
 
 table,
