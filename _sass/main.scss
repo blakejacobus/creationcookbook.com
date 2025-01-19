@@ -39,7 +39,7 @@ footer {
   background-color: #9BC995;
   color: #2D3047;
   font-family: 'Courier New';
-  padding: 2px;
+  padding: 5px;
   position: relative;
   left: 0; // Positions footer relative to left
   text-align: center;
@@ -49,25 +49,30 @@ footer {
 header {
   color: #2D3047;
   font-family: 'Courier New';
-  font-size: 150%;
-  padding-bottom: 5%;
-  padding-top: 5%;
+  // font-size: 150%;
+  // padding-bottom: 5%;
+  // padding-top: 5%;
   text-align: center;
 }
 
 h1 {
+  color: #2D3047;
+  font-family: 'Courier New';
+  text-align: center;
+}
+
+h2 {
   color: #986C6A;
   font-family: 'Courier New';
 }
 
-h2 {
+h3 {
   color: #465C69;
   font-family: 'Courier New';
 }
 
 nav {
   font-family: 'Courier New';
-  font-size: 150%;
   display: flex;
   justify-content: center;
 }
@@ -98,7 +103,6 @@ th {
   /* https://www.w3schools.com/css/css3_buttons.asp */
   // border: none;
   font-family: 'Courier New';
-  font-size: 150%;
   text-decoration: none; // removes underline
 }
 
