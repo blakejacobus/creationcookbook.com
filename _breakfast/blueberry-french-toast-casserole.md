@@ -55,3 +55,4 @@ From [Laughing Spatula](https://laughingspatula.com/blueberry-cream-cheese-frenc
     1. In small saucepan, combine sugar, water and cornstarch until simmering.
     1. Add blueberries and simmer for 10 minutes.  Using a fork or whisk, slightly break up the blueberries to desired consistency. 
     1. Cool slightly before serving or store in refrigerator for up to 3 days.
+    
