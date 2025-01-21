@@ -26,12 +26,12 @@ ul.topnav {
 
 ul.topnav li {
   float: left;
-  border-right: 2px solid #465C69;
+  // border-right: 2px solid #465C69;
 }
 
-ul.topnav li:last-child {
-  border-right: none;
-}
+// ul.topnav li:last-child {
+//   border-right: none;
+// }
 
 ul.topnav li a {
   display: block;
