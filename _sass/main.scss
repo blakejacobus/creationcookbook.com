@@ -21,13 +21,13 @@ ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  // overflow: hidden;
 }
 
 ul.topnav li {
   float: left;
-  border-right: 2px solid #465C69;
-  list-style-type: none;
+  border-right: 2px solid #986C6A;
+  font-size: 150%;
+  list-style-type: none; // Required for mobile to render list correctly
 }
 
 ul.topnav li:last-child {
