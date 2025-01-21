@@ -1,11 +1,11 @@
-<!-- <div class="nav-container"> -->
+<div class="nav-container">
     <ul class="topnav">
         {% for item in site.data.navigation %}
         <li>
             <a href="{{ item.link }}">
-                <h1>{{ item.name }}</h1>
+                {{ item.name }}
             </a>
             {% endfor %}
         </li>
     </ul>
-<!-- </div> -->
+</div>
