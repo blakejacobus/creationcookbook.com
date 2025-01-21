@@ -1,7 +1,43 @@
 // Primary stylesheet; imported from assets/css/styles.scss
+// Color pallete: https://coolors.co/9bc995-ffb86f-986c6a-465c69-2d3047
 
-// Color pallete
-// https://coolors.co/9bc995-ffb86f-986c6a-465c69-2d3047
+body {
+  background-color: #9BC995;
+  color: #2D3047;
+  font-family: 'Courier New';
+  line-height: 1.5;
+  padding: 1%;
+}
+
+// Navigation bar: https://www.w3schools.com/css/css_navbar_horizontal.asp
+// Centered nav list: https://www.w3schools.com/howto/howto_css_center-list.asp
+
+div.nav-container {
+  text-align: center;
+}
+
+ul.topnav {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+ul.topnav li {
+  float: left;
+  border-right: 2px solid #465C69;
+}
+
+ul.topnav li:last-child {
+  border-right: none;
+}
+
+ul.topnav li a {
+  display: block;
+  padding: 0px 20px;
+  text-decoration: none;
+}
 
 /* unvisited link */
 a:link {
@@ -27,25 +63,6 @@ a:active {
   text-decoration: underline;
 }
 
-body {
-  background-color: #9BC995;
-  color: #2D3047;
-  font-family: 'Courier New';
-  line-height: 1.5;
-  padding: 1%;
-}
-
-footer {
-  background-color: #9BC995;
-  color: #2D3047;
-  font-family: 'Courier New';
-  padding: 5px;
-  position: relative;
-  left: 0; // Positions footer relative to left
-  text-align: center;
-  width: 100%;
-}
-
 h1 {
   color: #2D3047;
   font-family: 'Courier New';
@@ -69,7 +86,7 @@ th,
 td {
   border: 1px solid;
   border-collapse: collapse;
-  border-color:#2D3047;
+  border-color: #2D3047;
   padding: 8px;
 }
 
@@ -86,11 +103,15 @@ th {
 // tr {
 // }
 
-.button {
-  /* https://www.w3schools.com/css/css3_buttons.asp */
-  // border: none;
+footer {
+  background-color: #9BC995;
+  color: #2D3047;
   font-family: 'Courier New';
-  text-decoration: none; // removes underline
+  padding: 5px;
+  position: relative;
+  left: 0; // Positions footer relative to left
+  text-align: center;
+  width: 100%;
 }
 
 .container {
@@ -104,6 +125,13 @@ th {
   margin-right: auto;
   max-width: 90%;
   width: 50%;
+}
+
+.button {
+  /* https://www.w3schools.com/css/css3_buttons.asp */
+  // border: none;
+  font-family: 'Courier New';
+  text-decoration: none; // removes underline
 }
 
 .left {

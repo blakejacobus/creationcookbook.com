@@ -1,3 +1,11 @@
-{% for item in site.data.navigation %}
-<ul style="list-style-type:none;"><a href="{{ item.link }}"><h1>{{ item.name }}</h1></a></ul>
-{% endfor %}
+<div class="nav-container">
+    <ul class="topnav">
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.link }}">
+                <h1>{{ item.name }}</h1>
+            </a>
+            {% endfor %}
+        </li>
+    </ul>
+</div>
