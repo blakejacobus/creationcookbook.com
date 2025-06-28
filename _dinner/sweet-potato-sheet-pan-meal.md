@@ -1,6 +1,6 @@
 ---
 name: Sweet Potato Sheet Sheet Pan Meal
-date: 2024-05-11
+
 tags: [eat, recipe]
 ---
 
