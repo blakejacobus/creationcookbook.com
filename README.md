@@ -16,30 +16,16 @@ bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
-## TODO
-
-### Setup
-
-- [x] [Templating](https://jekyllrb.com/docs/step-by-step/)
-- [x] [Domain configuration](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
-
-### Content
-
-- [x] HTML templates/layouts
-- [x] Migrate recipes from www.blakejacobus.com
-- [x] Rename and date migrated recipes
-- [ ] **Digitize remaining recipes**
-
-### Design
-
-- [x] Add styling for markdown tables in `recipe` docs
-- [x] Create custom styling for homepage
-- [x] Create custom styling for navigation bar
-- [x] Select and configure font
-- [x] Add consistent padding/spacing
+## Visual Version Reference
 
 ![alt text](assets/images/version_1.png)
 
 ![alt text](assets/images/version_2.png)
 
 ![alt text](assets/version_3a.png) ![alt text](assets/version_3b.png)
+
+## Resources
+
+[Templating](https://jekyllrb.com/docs/step-by-step/)
+
+[Domain configuration](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
