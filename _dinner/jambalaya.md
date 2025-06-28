@@ -1,6 +1,5 @@
 ---
 name: Jambalaya
-date: 2024-05-21
 tags: [eat, recipe]
 ---
 

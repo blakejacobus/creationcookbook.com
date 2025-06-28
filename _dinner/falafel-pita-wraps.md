@@ -1,5 +1,5 @@
 ---
-name: Title
+name: Falafel Pita Wraps
 tags: [eat, recipe]
 ---
 

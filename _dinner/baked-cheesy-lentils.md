@@ -1,5 +1,5 @@
 ---
-name: Title
+name: Baked Cheesy Lentils
 tags: [eat, recipe]
 ---
 

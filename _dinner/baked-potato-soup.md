@@ -1,6 +1,5 @@
 ---
 name: Baked Potato Soup
-date: 2024-05-21
 tags: [eat, recipe, crockpot]
 ---
 

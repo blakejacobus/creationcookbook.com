@@ -1,5 +1,5 @@
 ---
-name: Title
+name: Mediterranean Chickpea Salad
 tags: [eat, recipe]
 ---
 
