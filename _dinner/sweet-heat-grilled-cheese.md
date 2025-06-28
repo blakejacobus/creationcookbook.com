@@ -1,6 +1,5 @@
 ---
 name: Sweet Heat Grilled Cheese
-date: 2024-05-21
 tags: [eat, recipe]
 ---
 
