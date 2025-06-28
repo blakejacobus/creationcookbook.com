@@ -34,9 +34,9 @@ bundle exec jekyll serve
 
 - [x] Add styling for markdown tables in `recipe` docs
 - [x] Create custom styling for homepage
-- [ ] **Create custom styling for navigation bar**
-- [ ] Select and configure font
-- [ ] Add consistent padding/spacing
+- [x] Create custom styling for navigation bar
+- [x] Select and configure font
+- [x] Add consistent padding/spacing
 
 ![alt text](assets/images/version_1.png)
 
