@@ -1,6 +1,5 @@
 ---
 name: Stuffed Pepper Soup
-date: 2024-05-29
 tags: [eat, recipe]
 ---
 

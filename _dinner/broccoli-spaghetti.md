@@ -1,6 +1,5 @@
 ---
 name: Broccoli Spaghetti
-date: 2024-05-29
 tags: [eat, recipe]
 ---
 

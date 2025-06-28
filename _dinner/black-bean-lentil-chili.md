@@ -1,6 +1,5 @@
 ---
 name: Black Bean Lentil Chili
-date: 2024-06-03
 tags: [eat, recipe]
 ---
 

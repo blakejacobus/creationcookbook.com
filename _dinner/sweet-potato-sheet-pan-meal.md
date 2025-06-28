@@ -1,6 +1,5 @@
 ---
 name: Sweet Potato Sheet Sheet Pan Meal
-
 tags: [eat, recipe]
 ---
 

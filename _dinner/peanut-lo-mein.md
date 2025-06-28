@@ -1,6 +1,5 @@
 ---
 name: Peanut Lo Mein
-date: 2024-07-01
 tags: [eat, recipe]
 ---
 

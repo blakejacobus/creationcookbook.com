@@ -1,6 +1,5 @@
 ---
 name: Title
-date: yyyy-mm-dd
 tags: [eat, recipe]
 ---
 

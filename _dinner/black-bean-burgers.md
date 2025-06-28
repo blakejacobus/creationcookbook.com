@@ -1,6 +1,5 @@
 ---
 name: Black Bean Burgers
-date: 2024-05-20
 tags: [eat, recipe]
 ---
 

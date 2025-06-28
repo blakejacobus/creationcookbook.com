@@ -1,13 +1,11 @@
 ---
-name: Title
+name: Mediterranean Chickpea Salad
 tags: [eat, recipe]
 ---
 
+THIS RECIPE NEEDS TO BE CREATED
+
 # Title
-
-## Source
-
-
 
 ## Ingredients
 

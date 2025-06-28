@@ -1,6 +1,5 @@
 ---
 name: Stuffed Peppers
-date: 2024-09-27
 tags: [eat, recipe, slow-cooker]
 ---
 

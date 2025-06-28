@@ -1,6 +1,5 @@
 ---
 name: Pasta e Fagioli Soup
-date: 2024-05-21
 tags: [eat, recipe]
 ---
 
