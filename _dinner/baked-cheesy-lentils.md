@@ -3,11 +3,13 @@ name: Baked Cheesy Lentils
 tags: [eat, recipe]
 ---
 
+THIS RECIPE NEEDS TO BE POPULATED
+
 # Title
 
 ## Source
 
-
+> [Easy Cheesy Vegetarian](https://www.easycheesyvegetarian.com/very-veggie-lentil-bake/#recipe)
 
 ## Ingredients
 
@@ -15,7 +17,7 @@ tags: [eat, recipe]
 |-|-|-|
 |  |  |  |
 |  |  |  |
-|  |  |  |
+|  |  | Sub broccoli for mushrooms |
 |  |  |  |
 |  |  |  |
 |  |  |  |

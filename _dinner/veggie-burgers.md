@@ -1,9 +1,7 @@
 ---
-name: Falafel Pita Wraps
+name: Veggie Burgers
 tags: [eat, recipe]
 ---
-
-THIS RECIPE NEEDS TO BE CREATED
 
 # Title
 
