@@ -1,6 +1,5 @@
 ---
 name: Biscuits & Gravy
-date: 2025-01-20
 tags: [eat, recipe]
 ---
 

@@ -1,6 +1,5 @@
 ---
 name: Zucchini Parmesan Crisps
-date: 2024-05-20
 tags: [eat, recipe, side]
 ---
 

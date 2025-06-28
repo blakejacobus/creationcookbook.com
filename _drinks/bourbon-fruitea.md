@@ -1,6 +1,5 @@
 ---
 name: Bourbon Fruitea
-date: 2025-01-20
 tags: [eat, recipe]
 ---
 
