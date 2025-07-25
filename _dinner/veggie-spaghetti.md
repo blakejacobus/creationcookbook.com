@@ -1,9 +1,9 @@
 ---
-name: Title
+name: Veggie Spaghetti
 tags: [eat, recipe]
 ---
 
-# Title
+# Veggie Spaghetti
 
 ## Source
 
