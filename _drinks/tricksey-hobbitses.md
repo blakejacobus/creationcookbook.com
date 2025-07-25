@@ -5,7 +5,7 @@ tags: [eat, recipe]
 
 # Tricksey Hobbitses
 
-> We wants it. We needs it. Must have the precious.
+*We wants it. We needs it. Must have the precious.*
 
 ## Ingredients
 
