@@ -3,7 +3,7 @@ name: Deviled Eggs
 tags: [eat, recipe]
 ---
 
-# Title
+# Deviled Eggs
 
 ## Source
 
