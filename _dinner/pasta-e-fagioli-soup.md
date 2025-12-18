@@ -12,7 +12,7 @@ tags: [eat, recipe]
 | 1 tbsp | Olive oil |  |
 | 1 cup | Water |  |
 | 1 cup | Mirepoix mix | Frozen |
-| 1 cup | Carrots | Sliced, frozen |
+| 1/3 bag | Carrots | Crinkle cut |
 | 2 cups | Vegetable stock |  |
 | 1/2 cup | Ditalini pasta |  |
 | 1 can | Cannelini beans | 15 oz |
