@@ -1,6 +1,6 @@
 ---
 name: Pumpkin Pie
-tags: [eat, recipe, vegan]
+tags: [eat, recipe, vegan, todo]
 ---
 
 # Pumpkin Pie

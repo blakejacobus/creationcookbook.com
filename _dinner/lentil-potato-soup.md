@@ -1,6 +1,6 @@
 ---
 name: Lentil Potato Soup
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Lentil Potato Soup

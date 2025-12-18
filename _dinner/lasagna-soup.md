@@ -1,15 +1,13 @@
 ---
-name: Various Curries
+name: Lasagna Soup
 tags: [eat, recipe, todo]
 ---
 
-# Various Curries
+# Lasagna Soup
 
 ## Source
 
-[Great Curry Recipes](https://greatcurryrecipes.net/recipe-index/)
-
-Recommended by Awrig90 on Discord
+https://midwestfoodieblog.com/vegetarian-lasagna-soup/#tasty-recipes-25157-jump-target
 
 ## Ingredients
 

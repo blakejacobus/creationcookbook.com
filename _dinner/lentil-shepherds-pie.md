@@ -1,6 +1,6 @@
 ---
 name: Lentil Shepherd's Pie
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Lentil Shepherd's Pie

@@ -1,6 +1,6 @@
 ---
 name: Chickpea Muffins
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Chickpea Muffins

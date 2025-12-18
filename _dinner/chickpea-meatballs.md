@@ -34,6 +34,7 @@ _Source: [Minimalist Baker](https://minimalistbaker.com/simple-vegan-meatballs/#
 
 ## Instructions
 
+1. Preheat oven to 375 F
 1. Heat olive oil in a large skillet over medium heat.
 1. Saute onion and garlic until soft and translucent (3-5 minutes), reduce heat, and set aside.
 1. Drain and rinse chickpeas.
@@ -45,4 +46,5 @@ _Source: [Minimalist Baker](https://minimalistbaker.com/simple-vegan-meatballs/#
 1. Cook meatballs for about 5 minutes, until golden-brown, shaking pan or rolling them manually to cook on both sides.
 1. Heat marinara sauce in a separate pan/pot on low/medium setting.
 1. Once meatballs are cooked, remove from oil and place on a paper towel to dry.
+1. Bake meatballs for 15 minutes.
 1. To serve, top cooked pasta with meatballs and sauce.

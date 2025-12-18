@@ -1,6 +1,6 @@
 ---
 name: Toaster Strudel
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Toaster Strudel

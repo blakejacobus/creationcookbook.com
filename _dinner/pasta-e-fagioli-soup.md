@@ -11,7 +11,8 @@ tags: [eat, recipe]
 |-|-|-|
 | 1 tbsp | Olive oil |  |
 | 1 cup | Water |  |
-| 1 cup | Mirepoix mix | Frozen section |
+| 1 cup | Mirepoix mix | Frozen |
+| 1/3 bag | Carrots | Crinkle cut |
 | 2 cups | Vegetable stock |  |
 | 1/2 cup | Ditalini pasta |  |
 | 1 can | Cannelini beans | 15 oz |
@@ -26,7 +27,7 @@ tags: [eat, recipe]
 ## Instructions
 
 1. In a large pot, heat olive oil over medium heat.
-1. Saute garlic and mirepoix mix for about 5 minutes, or until veggies are tender.
+1. Saute garlic, carrots, and mirepoix mix for about 5 minutes, or until veggies are tender.
 1. Add tomato sauce, spices, stock, and water, and bring to a boil.
 1. Simmer for 15 minutes.
 1. Drain and rinse beans.

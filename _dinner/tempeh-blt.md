@@ -1,9 +1,9 @@
 ---
-name: Tempeh BLT
-tags: [eat, recipe]
+name: LGBT (Tempeh Guacamole BLT)
+tags: [eat, recipe, todo]
 ---
 
-# Tempeh BLT
+# LGBT (Tempeh Guacamole BLT)
 
 ## Source
 
