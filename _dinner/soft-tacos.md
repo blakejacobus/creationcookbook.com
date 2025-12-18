@@ -5,13 +5,6 @@ tags: [eat, recipe]
 
 # Soft Tacos
 
-## Source
-
-Soft tacos
-    - Your cooking instructions for the beef 
-    - Optional refried or black beans
-    - Tomatoes, avocado, black olives, lettuce, cheese, sour cream 
-
 ## Ingredients
 
 | Serving | Ingredient | Notes |

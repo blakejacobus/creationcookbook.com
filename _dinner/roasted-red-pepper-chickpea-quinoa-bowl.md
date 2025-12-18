@@ -1,6 +1,6 @@
 ---
 name: Roasted Red Pepper Chickpea Quinoa Bowl
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Roasted Red Pepper Chickpea Quinoa Bowl

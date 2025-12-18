@@ -1,15 +1,13 @@
 ---
-name: Various Curries
+name: Cottage Cheese Blueberry Muffins
 tags: [eat, recipe, todo]
 ---
 
-# Various Curries
+# Cottage Cheese Blueberry Muffins
 
 ## Source
 
-[Great Curry Recipes](https://greatcurryrecipes.net/recipe-index/)
-
-Recommended by Awrig90 on Discord
+https://sipnfeel.com/cottage-cheese-blueberry-muffins/
 
 ## Ingredients
 

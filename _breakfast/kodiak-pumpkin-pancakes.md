@@ -1,15 +1,13 @@
 ---
-name: Various Curries
+name: Pumpkin Spice Pancakes
 tags: [eat, recipe, todo]
 ---
 
-# Various Curries
+# Pumpkin Spice Pancakes
 
 ## Source
 
-[Great Curry Recipes](https://greatcurryrecipes.net/recipe-index/)
-
-Recommended by Awrig90 on Discord
+https://www.thewellnourishedmama.com/blog/healthy-pumpkin-spice-pancakes#recipe-card
 
 ## Ingredients
 

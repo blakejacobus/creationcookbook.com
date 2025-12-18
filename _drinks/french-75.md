@@ -1,6 +1,6 @@
 ---
 name: French 75
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # French 75

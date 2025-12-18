@@ -1,6 +1,6 @@
 ---
 name: Veggie Spaghetti
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Veggie Spaghetti

@@ -1,15 +1,13 @@
 ---
-name: Various Curries
+name: Cottage Cheese Potato Soup
 tags: [eat, recipe, todo]
 ---
 
-# Various Curries
+# Cottage Cheese Potato Soup
 
 ## Source
 
-[Great Curry Recipes](https://greatcurryrecipes.net/recipe-index/)
-
-Recommended by Awrig90 on Discord
+https://mollyshomeguide.com/creamy-cottage-cheese-potato-soup-18575/
 
 ## Ingredients
 

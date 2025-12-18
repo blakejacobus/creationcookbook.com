@@ -1,6 +1,6 @@
 ---
 name: Baked Cheesy Lentils
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 THIS RECIPE NEEDS TO BE POPULATED

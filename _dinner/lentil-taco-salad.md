@@ -1,6 +1,6 @@
 ---
 name: Lentil Taco Salad
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Lentil Taco Salad

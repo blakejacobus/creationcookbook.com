@@ -1,6 +1,6 @@
 ---
 name: Sweet Potato Chickpea Peanut Stir Fry
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Sweet Potato Chickpea Peanut Stir Fry

@@ -1,6 +1,6 @@
 ---
 name: Chickpea Teriyaki Stir Fry
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Chickpea Teriyaki Stir Fry

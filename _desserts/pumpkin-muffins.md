@@ -1,11 +1,13 @@
 ---
-name: Mediterranean Chickpea Salad
-tags: [eat, recipe]
+name: Pumpkin Muffins
+tags: [eat, recipe, todo]
 ---
 
-THIS RECIPE NEEDS TO BE CREATED
+# Pumpkin Muffins
 
-# Title
+## Source
+
+https://www.yummytoddlerfood.com/easy-pumpkin-muffins/#wprm-recipe-container-50300
 
 ## Ingredients
 

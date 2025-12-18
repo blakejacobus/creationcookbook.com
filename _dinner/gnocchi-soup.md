@@ -1,6 +1,6 @@
 ---
 name: Gnocchi Soup
-tags: [eat, recipe]
+tags: [eat, recipe, todo]
 ---
 
 # Gnocchi Soup
