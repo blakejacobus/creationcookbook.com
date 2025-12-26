@@ -15,10 +15,14 @@ tags: [eat, recipe, todo]
 | 2 tbsp | Chia seeds |  |
 | 1/2 tsp | Cinnamon |  |
 | 1.5 cups | Almond milk | Add more, as needed |
-| N/A | Chopped pecans | Optional; add preferred amount |
+| Various | Chopped pecans | Optional; add preferred amount |
 
 ## Instructions
 
-1. 
-1. 
-1. 
+1. Mix all ingredients together.
+1. Use potato smasher or mixer to break up bananas and mix ingredients.
+1. Heat skillet over low/medium heat.
+1. Scoop 1/2 cup (smaller or larger depending on size preference) of mix onto skillet.
+1. Wait until surface begins to bubble and then flip.
+1. When both sides are lightly browned, and the cake is cooked through the middle, set on a rack or plate to cool.
+1. Serve with butter and syrup.
