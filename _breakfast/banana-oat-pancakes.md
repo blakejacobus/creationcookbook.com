@@ -1,6 +1,6 @@
 ---
 name: Banana Oat Pancakes
-tags: [eat, recipe, todo]
+tags: [eat, recipe]
 ---
 
 # Banana Oat Pancakes
