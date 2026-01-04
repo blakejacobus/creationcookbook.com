@@ -1,6 +1,6 @@
 ---
 name: Cottage Cheese Blueberry Muffins
-tags: [eat, recipe, todo]
+tags: [eat, recipe]
 ---
 
 # Cottage Cheese Blueberry Muffins
