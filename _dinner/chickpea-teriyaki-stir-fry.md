@@ -5,10 +5,6 @@ tags: [eat, recipe]
 
 # Chickpea Teriyaki Stir Fry
 
-## Source
-
-![](../assets/images/chickpea-terikyaki-stir-fry.jpg)
-
 ## Ingredients
 
 | Serving | Ingredient | Notes |
