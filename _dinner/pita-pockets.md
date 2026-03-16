@@ -1,30 +1,34 @@
 ---
-name: Pita Pockets
-tags: [eat, recipe, todo]
+name: Chickpea Pita Pockets
+tags: [eat, recipe]
 ---
 
-# Pita Pockets
-
-## Source
-
-For pita pockets - add second can of chickpeas 
-    - Chickpea instructions (per can): 2 tbsp olive oil, salt & pepper, 1/2 tsp thyme, 1/2 tsp garlic powder, 1 tsp dill 
-    - Bake 18-20 minutes at 425°
+# Chickpea Pita Pockets
 
 ## Ingredients
 
+### Chickpeas
+
 | Serving | Ingredient | Notes |
 |-|-|-|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 2 cans (15 oz each) | Chickpeas | Drained and rinsed |
+| 4-6 | Pita breads |  |
+| 1 | Cucumber | Sliced |
+| 2 | Tomatoes | Diced |
+| 4 tbsp | Olive oil |  |
+| 1 tsp | Salt |  |
+| ½ tsp | Black pepper |  |
+| 1 tsp | Dried thyme |  |
+| 1 tsp | Garlic powder |  |
+| 2 tsp | Dried dill |  |
+| 2 cups | Lettuce | Shredded |
+| Splash | Lemon juice | For drizzling |
 
 ## Instructions
 
-1. 
-1. 
-1. 
+1. Preheat the oven to 425°F (220°C).
+2. In a bowl, toss the drained chickpeas with olive oil, salt, pepper, thyme, garlic powder, and dill until well coated.
+3. Spread the seasoned chickpeas on a baking sheet in a single layer. Bake for 18-20 minutes, stirring halfway through, until crispy.
+4. While the chickpeas bake, prepare the vegetables: slice the cucumber, dice the tomatoes, thinly slice the red onion, and shred the lettuce.
+5. Warm the pita breads in the oven for the last 5 minutes of baking or in a toaster.
+6. To assemble, open each pita pocket and fill with baked chickpeas, cucumber, tomatoes, red onion, and lettuce. Drizzle with a little olive oil and lemon juice for extra flavor. Serve immediately.

@@ -13,17 +13,17 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 cup | pumpkin puree |  |
-| ¼ cup | plain whole milk yogurt |  |
-| ¼ cup | unsalted butter |  |
-| 1 | egg (lightly beaten) |  |
-| 1 teaspoon | vanilla extract |  |
-| 1 cup | all-purpose flour |  |
-| ⅓ cup | sugar |  |
-| 2 teaspoons | pumpkin pie spice |  |
-| 1 teaspoon | baking powder |  |
-| ½ teaspoon | baking soda |  |
-| ¼ teaspoon | salt |  |
+| 1 cup | Pumpkin puree |  |
+| ¼ cup | Plain whole milk yogurt |  |
+| ¼ cup | Unsalted butter |  |
+| 1 | Egg (lightly beaten) |  |
+| 1 teaspoon | Vanilla extract |  |
+| 1 cup | All-purpose flour |  |
+| ⅓ cup | Sugar |  |
+| 2 teaspoons | Pumpkin pie spice |  |
+| 1 teaspoon | Baking powder |  |
+| ½ teaspoon | Baking soda |  |
+| ¼ teaspoon | Salt |  |
 
 ## Instructions
 

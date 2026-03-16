@@ -17,17 +17,17 @@ tags: [eat, recipe]
 
 | 2 whole | Yellow onions | Large |
 | 400 g | Mushrooms | Chopped |
-| 1 cup | Walnuts| Chopped into small pieces |
+| 1 cup | Walnuts | Chopped into small pieces |
 | 4 cups | Spinach |  |
 | 1 tbsp | Thyme leaves | Fresh |
-| 1 tbsp | Rosemary leaves | Chopped, fresh|
+| 1 tbsp | Rosemary leaves | Chopped, fresh |
 | 1 tsp | Milk |  |
 | 1/2 tbsp | Maple syrup |  |
 | 1 tbsp | Dijon mustard |  |
 | 5–6 cloves | Garlic | Minced |
 | 4 tbsp | Olive oil |  |
-| To taste | Salt |  |
-| To taste | Black pepper |  |
+| Pinch | Salt |  |
+| Pinch | Black pepper |  |
 | 4 tbsp | Nutritional yeast |  |
 | 3/4 tsp | Chili powder |  |
 | 1/2 tsp | Nutmeg | Ground |

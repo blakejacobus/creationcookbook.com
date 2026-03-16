@@ -18,7 +18,7 @@ tags: [eat, recipe, slow-cooker]
 | 1/2 cup | Salsa |  |
 | 1/2 tsp | Cumin |  |
 | 1/2 tsp | Chili powder |  |
-| To taste | Salt and pepper |  |
+| Pinch | Salt and pepper |  |
 
 ## Instructions
 

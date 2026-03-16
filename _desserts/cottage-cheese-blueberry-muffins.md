@@ -13,21 +13,21 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 cup | cottage cheese (full-fat or 2%) | The whole reason this recipe works |
-| 1½ cups | all-purpose flour | Structure and rise |
-| ½ cup | oat flour | Structure and rise |
-| 1½ tsp | baking powder | Structure and rise |
-| ½ tsp | baking soda | Structure and rise |
-| ¼ tsp | salt | Structure and rise |
-| 2 | large eggs | Moisture and binding |
-| ⅓ cup | honey | Moisture and binding |
+| 1 cup | Cottage cheese (full-fat or 2%) | The whole reason this recipe works |
+| 1½ cups | All-purpose flour | Structure and rise |
+| ½ cup | Oat flour | Structure and rise |
+| 1½ tsp | Baking powder | Structure and rise |
+| ½ tsp | Baking soda | Structure and rise |
+| ¼ tsp | Salt | Structure and rise |
+| 2 | Large eggs | Moisture and binding |
+| ⅓ cup | Honey | Moisture and binding |
 | ¼ cup | Greek yogurt | Moisture and binding |
-| 2 tsp | vanilla extract | Moisture and binding |
-| 1½ cups | fresh blueberries | Flavor and texture |
-| 1 tbsp | lemon zest (optional) | Flavor and texture |
-| 3 tbsp | rolled oats | Optional topping |
-| 1 tbsp | honey | Optional topping |
-| ¼ tsp | cinnamon | Optional topping |
+| 2 tsp | Vanilla extract | Moisture and binding |
+| 1½ cups | Fresh blueberries | Flavor and texture |
+| 1 tbsp | Lemon zest (optional) | Flavor and texture |
+| 3 tbsp | Rolled oats | Optional topping |
+| 1 tbsp | Honey | Optional topping |
+| ¼ tsp | Cinnamon | Optional topping |
 
 ## Instructions
 

@@ -10,7 +10,7 @@ tags: [eat, recipe]
 | Serving | Ingredient | Notes |
 |-|-|-|
 | 1 can | Chickpeas |  |
-| 1 whole | Squash  |  |
+| 1 whole | Squash |  |
 | 1 whole | Zucchini |  |
 | 2 whole | Bell pepper |  |
 | 2 pouches | Black Rice / Quinoa | 90 second mix |

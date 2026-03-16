@@ -16,7 +16,7 @@ tags: [eat, recipe]
 | 1 can | Crushed tomatoes | 14 oz |
 | 3 whole | Bell pepper | Try to get green, red, and yellow |
 | 2 ribs | Celery |  |
-| 1/2 cup | White onion | |
+| 1/2 cup | White onion |  |
 | 1.5 cups | Long-grain white rice | Dry |
 | 4 cups | Vegetable broth |  |
 | 4 cloves | Garlic | Minced |

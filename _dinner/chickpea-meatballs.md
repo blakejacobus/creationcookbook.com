@@ -23,8 +23,8 @@ _Source: [Minimalist Baker](https://minimalistbaker.com/simple-vegan-meatballs/#
 | 1/4 cup | Parsley | Optional |
 | 1/2 cup | Bread crumbs |  |
 | 2 tbsp | Marinara | Can substitute tomato sauce |
-| To taste | Salt | |
-| To taste | Pepper | |
+| Pinch | Salt |  |
+| Pinch | Pepper |  |
 
 ### Coating
 
