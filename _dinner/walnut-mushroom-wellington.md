@@ -26,8 +26,8 @@ tags: [eat, recipe]
 | 1 tbsp | Dijon mustard |  |
 | 5–6 cloves | Garlic | Minced |
 | 4 tbsp | Olive oil |  |
-| To taste | Salt |  |
-| To taste | Black pepper |  |
+| Pinch | Salt |  |
+| Pinch | Black pepper |  |
 | 4 tbsp | Nutritional yeast |  |
 | 3/4 tsp | Chili powder |  |
 | 1/2 tsp | Nutmeg | Ground |

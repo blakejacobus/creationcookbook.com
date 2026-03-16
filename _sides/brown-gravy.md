@@ -35,4 +35,4 @@ tags: [eat, recipe]
 1. Add 2 cups of the vegetable broth and the tamari, and continue stirring.
 1. Add the blended mushroom mixture and continue to stir as it thickens.
 1. Continue whisking the vegetarian gravy for 5-10 minutes, or until the mixture thickens and coats the back of a spoon.
-1. Add the sage, then salt and pepper to taste before serving.
+1. Add the sage, then salt and pepper Pinch before serving.

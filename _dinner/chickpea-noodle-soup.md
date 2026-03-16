@@ -26,8 +26,8 @@ tags: [eat, recipe]
 | 1 can | Chickpeas | About 15 oz; drained and rinsed |
 | 2 whole | Bay leaves |  |
 | 1 tsp | Applce cider vinegar |  |
-| Pinch | Salt | To taste |
-| Pinch | Pepper | To taste |
+| Pinch | Salt | Pinch |
+| Pinch | Pepper | Pinch |
 | Pinch | Parsley | Optional, freshly chopped, if possible |
 
 
@@ -43,5 +43,5 @@ tags: [eat, recipe]
 1. With heat on medium high, bring soup to a simmer. 
 1. Cover and turn heat to low. 
 1. Simmer for 6-10 minutes or until pasta is just al dente. 
-1. Stir in apple cider vinegar and season to taste with salt and pepper. 
+1. Stir in apple cider vinegar and season Pinch with salt and pepper. 
 1. Garnish with fresh chopped parsley and enjoy!

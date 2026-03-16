@@ -15,8 +15,8 @@ _Source: [Spend With Pennies](https://www.spendwithpennies.com/balsamic-roasted-
 | 2 tbsp | Olive oil |  |
 | 2 tbsp | Balsamic vinegar | Don't overdo this |
 | 2 cloves | Garlic | Minced |
-| N/A | Salt | To taste; [original recipe](https://www.spendwithpennies.com/balsamic-roasted-brussels-sprouts/#wprm-recipe-container-222393) says generous coating |
-| N/A | Pepper | To taste; [original recipe](https://www.spendwithpennies.com/balsamic-roasted-brussels-sprouts/#wprm-recipe-container-222393) says generous coating |
+| N/A | Salt | Pinch; [original recipe](https://www.spendwithpennies.com/balsamic-roasted-brussels-sprouts/#wprm-recipe-container-222393) says generous coating |
+| N/A | Pepper | Pinch; [original recipe](https://www.spendwithpennies.com/balsamic-roasted-brussels-sprouts/#wprm-recipe-container-222393) says generous coating |
 
 ## Instructions
 

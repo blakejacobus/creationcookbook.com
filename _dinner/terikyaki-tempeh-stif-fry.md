@@ -12,7 +12,7 @@ tags: [eat, recipe]
 | 1 package | Tempeh | Plain |
 | 1 bag | Asian veggie mix |  |
 | 1 package | Garden veggie instant rice | Can substitute 3 bundles of udon noodles |
-| To taste | Teriyaki sauce |  |
+| Pinch | Teriyaki sauce |  |
 
 ## Instructions
 

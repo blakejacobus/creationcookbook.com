@@ -23,7 +23,7 @@ _Source: [Choosing Chia](https://choosingchia.com/vegan-stuffed-pepper-soup/)_
 | 1 tsp | Dried thyme |  |
 | 1 liter | Vegetable broth | 32 oz |
 | 1 cup | Water |  |
-| To taste | Salt and pepper |  |
+| Pinch | Salt and pepper |  |
 | To top | Parlsey |  |
 
 ## Instructions

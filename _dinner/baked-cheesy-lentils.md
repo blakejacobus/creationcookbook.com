@@ -23,7 +23,7 @@ tags: [eat, recipe]
 | 1 small | courgette (zucchini) | or 1/2 large courgette, diced fairly small |
 | 1 tsp | smoked paprika |  |
 | 1/2 tsp | cayenne pepper |  |
-| To taste | black pepper |  |
+| Pinch | black pepper |  |
 | 1 cup | grated cheddar cheese |  |
 
 ## Instructions

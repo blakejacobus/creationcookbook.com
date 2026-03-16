@@ -18,8 +18,8 @@ tags: [eat, recipe]
 | 1/4 cup | Feta cheese |  |
 | 1/4 cup | Olive oil |  |
 | 2 tbsp | Lemon juice |  |
-| Pinch | Salt | To taste |
-| Dash | Pepper | To taste |
+| Pinch | Salt | Pinch |
+| Dash | Pepper | Pinch |
 
 ## Instructions
 

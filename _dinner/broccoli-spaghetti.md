@@ -15,7 +15,7 @@ tags: [eat, recipe]
 | 2 tbsp | Olive oil |  |
 | 1/8 cup | Bread crumbs |  |
 | 1/8 cup | Parmesan cheese |  |
-| To taste | Salt and pepper |  |
+| Pinch | Salt and pepper |  |
 
 ## Instructions
 

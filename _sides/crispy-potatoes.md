@@ -12,8 +12,8 @@ tags: [eat, recipe, side]
 | Various | Idaho potatoes |  |
 | N/A | Unsalted butter | Amount varies with potatoes |
 | N/A | Olive oil | Amount varies with potatoes |
-| To taste | Salt |  |
-| To taste | Pepper |  |
+| Pinch | Salt |  |
+| Pinch | Pepper |  |
 
 ## Instructions
 

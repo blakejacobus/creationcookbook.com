@@ -18,7 +18,7 @@ tags: [eat, recipe]
 | 2 tbsp | Olive oil |  |
 | 1 tsp | Rosemary |  |
 | 2 tsp | Garlic | Minced |
-| To taste | Salt and pepper |  |
+| Pinch | Salt and pepper |  |
 
 ## Instructions
 

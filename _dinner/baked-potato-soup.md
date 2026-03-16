@@ -15,7 +15,7 @@ tags: [eat, recipe, crockpot]
 | 1/4 cup | Flour |  |
 | 1/4 cup | Sour cream |  |
 | 1.5 cup | Heavy cream | Can substitute half-and-half |
-| To taste | Salt, pepper |  |
+| Pinch | Salt, pepper |  |
 
 ## Instructions
 

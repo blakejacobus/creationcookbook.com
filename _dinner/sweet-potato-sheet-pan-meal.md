@@ -23,8 +23,8 @@ tags: [eat, recipe]
 | 1 bundle | chopped parsley | for dressing |
 | 3 tbsp | feta cheese | for dressing |
 | dash | crushed red pepper | for dressing |
-| - | salt | to taste |
-| - | pepper | to taste |
+| - | salt | Pinch |
+| - | pepper | Pinch |
 
 ## Instructions
 
