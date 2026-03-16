@@ -1,28 +1,25 @@
 ---
 name: French 75
-tags: [eat, recipe, todo]
+tags: [eat, recipe]
 ---
 
 # French 75
 
 ## Source
 
-https://www.reddit.com/r/AskReddit/comments/93f2gg/bartenders_of_reddit_whats_an_underrated_drink/
+[Epicurious](https://www.epicurious.com/recipes/food/views/french-75-242668)
 
 ## Ingredients
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 0.75 oz | lemon juice |  |
+| 0.5 oz | simple syrup |  |
+| 2 oz | champagne |  |
+| 1.5 oz | gin | |
 
 ## Instructions
 
-1. 
-1. 
-1. 
+1. Once the simple syrup cools, mix with gin and lemon juice and put in fridge, up to a few hours.
+1. Once ready to serve, divide among 6 champagne glasses and top with champagne.
+1. Garnish. 
