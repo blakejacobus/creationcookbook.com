@@ -9,12 +9,12 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 1/2 tbsp | Butter | |
+| 1 1/2 tbsp | Butter |  |
 | 4 oz | Cream cheese | Softened |
-| 3 slices | Pepper Jack | Sliced (about 1 cup)
+| 3 slices | Pepper Jack |
 | 3–5 tbsp | Milk | Add more for thinner consistency |
-| 1 tsp | Chili powder | |
-| To taste | Garlic salt | |
+| 1 tsp | Chili powder |  |
+| To taste | Garlic salt |  |
 
 ## Instructions
 

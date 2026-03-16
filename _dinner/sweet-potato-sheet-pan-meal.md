@@ -10,21 +10,21 @@ tags: [eat, recipe]
 | Serving | Ingredient | Notes |
 |-|-|-|
 | - | - | - |
-| 1-2 whole | sweet potato |  |
-| 3-4 crowns | broccoli |  |
-| 1 whole | yellow bell pepper |  |
-| 1 bundle | kale |  |
-| 1 can | chickpeas |  |
-| 1 pouch | black pepper quinoa & rice | instant rice |
-| 2 tbsp | lemon juice | for dressing |
-| 1/2 tbsp | apple cider vinegar | for dressing |
-| 3 tbsp | olive oil | for dressing |
-| 1 tsp | maple syrup | for dressing |
-| 1 bundle | chopped parsley | for dressing |
-| 3 tbsp | feta cheese | for dressing |
-| dash | crushed red pepper | for dressing |
-| - | salt | Pinch |
-| - | pepper | Pinch |
+| 1-2 whole | Sweet potato |  |
+| 3-4 crowns | Broccoli |  |
+| 1 whole | Yellow bell pepper |  |
+| 1 bundle | Kale |  |
+| 1 can | Chickpeas |  |
+| 1 pouch | Black pepper quinoa & rice | Instant rice |
+| 2 tbsp | Lemon juice | For dressing |
+| 1/2 tbsp | Apple cider vinegar | For dressing |
+| 3 tbsp | Olive oil | For dressing |
+| 1 tsp | Maple syrup | For dressing |
+| 1 bundle | Chopped parsley | For dressing |
+| 3 tbsp | Feta cheese | For dressing |
+| Dash | Crushed red pepper | For dressing |
+| - | Salt | Pinch |
+| - | Pepper | Pinch |
 
 ## Instructions
 

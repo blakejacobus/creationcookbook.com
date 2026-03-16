@@ -10,17 +10,17 @@ tags: [eat, recipe]
 | Serving | Ingredient | Notes |
 |-|-|-|
 | - | - | - |
-| 1 can | chickpeas | drained and rinsed |
-| 1/2 cup | greek yogurt |  |
-| 1 tbsp | lemon juice |  |
-| 1/2 tbsp | dijon mustard | can substitute 1/2 tsp mustard powder |
-| 1/2 tsp | poultry seasoning |  |
-| 2 tsp | dill |  |
-| 1/3 cup | slivered almonds |  |
-| Variable | salt |  |
-| Variable | pepper |  |
-| Variable | grapes | as many as you want |
-| 6-8 | croissants |  |
+| 1 can | Chickpeas | Drained and rinsed |
+| 1/2 cup | Greek yogurt |  |
+| 1 tbsp | Lemon juice |  |
+| 1/2 tbsp | Dijon mustard | Can substitute 1/2 tsp mustard powder |
+| 1/2 tsp | Poultry seasoning |  |
+| 2 tsp | Dill |  |
+| 1/3 cup | Slivered almonds |  |
+| Variable | Salt |  |
+| Variable | Pepper |  |
+| Variable | Grapes | As many as you want |
+| 6-8 | Croissants |  |
 | 1 head | Lettuce |  |
 
 ## Instructions

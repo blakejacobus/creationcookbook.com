@@ -9,20 +9,20 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 can | chickpeas | drained and rinsed |
-| 1/2 can | black olives | sliced (adjust to taste) |
-| 1 | zucchini | optional, roasted and chopped |
-| 1/2 jar | roasted red peppers or pimentos | drained |
-| 1/4 cup | slivered almonds | for sauce and texture |
-| 1/4 cup | feta | crumbled (optional; omit for vegan) |
-| 2 tbsp | chopped parsley | optional garnish |
-| 1 bag (or 1 cup dry) | quinoa or 7-grain rice | cooked according to package |
-| 2-4 tbsp | olive oil | divided (for roasting and dressing) |
-| 1 tsp | paprika | for chickpeas and sauce |
-| 1 tsp | chili powder or crushed red pepper | for chickpeas |
-| 1/2 tsp | ground cumin | for sauce |
-| 1 tsp | garlic (minced or powder) | for sauce and chickpeas |
-| to taste | salt & black pepper |  |
+| 1 can | Chickpeas | Drained and rinsed |
+| 1/2 can | Black olives | Sliced (adjust to taste) |
+| 1 | Zucchini | Optional, roasted and chopped |
+| 1/2 jar | Roasted red peppers or pimentos | Drained |
+| 1/4 cup | Slivered almonds | For sauce and texture |
+| 1/4 cup | Feta | Crumbled (optional; omit for vegan) |
+| 2 tbsp | Chopped parsley | Optional garnish |
+| 1 bag (or 1 cup dry) | Quinoa or 7-grain rice | Cooked according to package |
+| 2-4 tbsp | Olive oil | Divided (for roasting and dressing) |
+| 1 tsp | Paprika | For chickpeas and sauce |
+| 1 tsp | Chili powder or crushed red pepper | For chickpeas |
+| 1/2 tsp | Ground cumin | For sauce |
+| 1 tsp | Garlic (minced or powder) | For sauce and chickpeas |
+| To taste | Salt & black pepper |  |
 
 ## Instructions
 

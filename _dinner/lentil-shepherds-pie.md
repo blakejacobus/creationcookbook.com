@@ -9,25 +9,25 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 2 tbsp | olive oil |  |
-| 2 cloves | garlic | minced |
-| 3 cups | mirepoix mix | (carrots, onion, celery) |
-| 2 tsp | thyme |  |
-| 1/2 tsp | rosemary | (optional) |
-| 2 cans | lentils | drained and rinsed |
-| 2 tbsp | tomato paste |  |
-| 1 tbsp | soy sauce |  |
+| 2 tbsp | Olive oil |  |
+| 2 cloves | Garlic | Minced |
+| 3 cups | Mirepoix mix | (carrots, onion, celery) |
+| 2 tsp | Thyme |  |
+| 1/2 tsp | Rosemary | (optional) |
+| 2 cans | Lentils | Drained and rinsed |
+| 2 tbsp | Tomato paste |  |
+| 1 tbsp | Soy sauce |  |
 | 1 tsp | Dijon mustard |  |
-| 1 cup | peas | frozen or fresh |
-| 1 cup | corn | frozen or fresh |
-| 1 cup | vegetable broth |  |
-| 2 tbsp | flour |  |
-| 2-3 | potatoes | for mash (about 2–3 medium) |
-| 4 tbsp | butter |  |
-| 1/3-2/3 cup | milk | to desired mash consistency |
-| 1 tsp | garlic powder |  |
-| 1/2 cup | bread crumbs | for topping |
-| Salt & pepper | to taste |  |
+| 1 cup | Peas | Frozen or fresh |
+| 1 cup | Corn | Frozen or fresh |
+| 1 cup | Vegetable broth |  |
+| 2 tbsp | Flour |  |
+| 2-3 | Potatoes | For mash (about 2–3 medium) |
+| 4 tbsp | Butter |  |
+| 1/3-2/3 cup | Milk | To desired mash consistency |
+| 1 tsp | Garlic powder |  |
+| 1/2 cup | Bread crumbs | For topping |
+| Salt & pepper | To taste |  |
 
 ## Instructions
 

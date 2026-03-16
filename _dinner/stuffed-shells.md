@@ -24,18 +24,18 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 24 shells | jumbo pasta shells | cooked al dente per package instructions |
-| 16 oz | spinach | chopped; fresh or frozen (thaw & drain thoroughly) |
-| 18 oz | vegan cream cheese | e.g., Miyokos |
-| 1/2 cup | vegan ricotta-style cheese | or other soft vegan cheese |
-| 3 cloves | garlic | finely minced |
-| 2 tbsp | olive oil | extra virgin |
-| 1 tsp | sea salt |  |
-| 1/2 tsp | black pepper | freshly ground |
-| 1/4 tsp | nutmeg | ground |
-| 24 oz | marinara sauce | bottled or homemade (use about 2 cups in the pan, reserve remainder) |
-| 1/3 cup | bread crumbs | Italian style |
-| 1/4 cup | vegan parmesan | grated |
+| 24 shells | Jumbo pasta shells | Cooked al dente per package instructions |
+| 16 oz | Spinach | Chopped; fresh or frozen (thaw & drain thoroughly) |
+| 18 oz | Vegan cream cheese | E.g., Miyokos |
+| 1/2 cup | Vegan ricotta-style cheese | Or other soft vegan cheese |
+| 3 cloves | Garlic | Finely minced |
+| 2 tbsp | Olive oil | Extra virgin |
+| 1 tsp | Sea salt |  |
+| 1/2 tsp | Black pepper | Freshly ground |
+| 1/4 tsp | Nutmeg | Ground |
+| 24 oz | Marinara sauce | Bottled or homemade (use about 2 cups in the pan, reserve remainder) |
+| 1/3 cup | Bread crumbs | Italian style |
+| 1/4 cup | Vegan parmesan | Grated |
 
 ## Instructions
 

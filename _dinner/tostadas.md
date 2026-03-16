@@ -14,7 +14,7 @@ tags: [eat, recipe]
 | 1 can | Refried beans |  |
 | 1 can | Black beans |  |
 | 1/2 can | Sweet corn |  |
-| 2 tbsp | Olive oil | |
+| 2 tbsp | Olive oil |  |
 | 1 tbsp | Taco seasoning |  |
 | 1-2 cups | Guacamole |  |
 

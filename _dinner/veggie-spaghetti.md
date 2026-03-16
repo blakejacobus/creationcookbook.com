@@ -9,15 +9,15 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1/2 box | Spaghetti | cooked (reserve a splash of pasta water) |
+| 1/2 box | Spaghetti | Cooked (reserve a splash of pasta water) |
 | 2 tbsp | Olive oil | For sautéing |
-| 1 | Zucchini | chopped |
-| 1 | Yellow squash | chopped |
-| 1 tbsp | Tomato paste | |
+| 1 | Zucchini | Chopped |
+| 1 | Yellow squash | Chopped |
+| 1 tbsp | Tomato paste |  |
 | 14 oz can | Diced tomatoes |  |
-| 1/2 jar | Roasted red peppers or pimentos | chopped |
+| 1/2 jar | Roasted red peppers or pimentos | Chopped |
 | 2 cups | Spinach |  |
-| 1 1/2 tbsp | Garlic | minced |
+| 1 1/2 tbsp | Garlic | Minced |
 | 1/2 tsp | Dried oregano or Italian seasoning |  |
 | Dash | Red pepper flakes |  |
 | Pinch | Salt & pepper |  |

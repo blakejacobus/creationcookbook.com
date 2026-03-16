@@ -13,10 +13,10 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 0.75 oz | lemon juice |  |
-| 0.5 oz | simple syrup |  |
-| 2 oz | champagne |  |
-| 1.5 oz | gin | |
+| 0.75 oz | Lemon juice |  |
+| 0.5 oz | Simple syrup |  |
+| 2 oz | Champagne |  |
+| 1.5 oz | Gin |  |
 
 ## Instructions
 

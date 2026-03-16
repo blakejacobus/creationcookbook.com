@@ -13,17 +13,17 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 2 tbsp | olive oil |  |
-| 1/2 tbsp | minced garlic |  |
-| 1/2 bag | frozen mirepoix mix | (carrots/onion/celery) |
-| 2 tbsp | tomato paste | or 1 (8 oz) can tomato sauce |
-| 1 1/4 cups | dried green lentils |  |
-| 2-3 | russet potatoes | or 1 bag mini red potatoes, peeled & diced |
-| 4 cups | vegetable broth |  |
-| 2 tsp | Kosher salt | adjust to taste |
-| 1 tsp | black pepper | freshly cracked preferred |
-| 1/4 tsp | thyme | dried |
-| 1/2 tsp | oregano | dried |
+| 2 tbsp | Olive oil |  |
+| 1/2 tbsp | Minced garlic |  |
+| 1/2 bag | Frozen mirepoix mix | (carrots/onion/celery) |
+| 2 tbsp | Tomato paste | Or 1 (8 oz) can tomato sauce |
+| 1 1/4 cups | Dried green lentils |  |
+| 2-3 | Russet potatoes | Or 1 bag mini red potatoes, peeled & diced |
+| 4 cups | Vegetable broth |  |
+| 2 tsp | Kosher salt | Adjust to taste |
+| 1 tsp | Black pepper | Freshly cracked preferred |
+| 1/4 tsp | Thyme | Dried |
+| 1/2 tsp | Oregano | Dried |
 
 ## Instructions
 

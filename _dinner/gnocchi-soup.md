@@ -13,24 +13,24 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 16 ounces | potato gnocchi | I used Delallo gluten free |
-| 1 can | beans |  |
-| 1 | yellow onion | diced |
-| 2 large | carrots | peeled and sliced |
-| 2 stalks | celery | diced |
-| 2 cups | kale or spinach |  |
-| 2 teaspoons | minced garlic |  |
-| 2 tablespoons | olive oil |  |
-| ⅓ cup | white wine | Sub wine for extra broth + lemon juice (3 tsp) |
-| 3 cups | vegetable broth |  |
-| 1 tablespoon | tomato paste |  |
-| ¼ teaspoon | black pepper |  |
-| ¼ teaspoon | red pepper flakes |  |
+| 16 ounces | Potato gnocchi | I used Delallo gluten free |
+| 1 can | Beans |  |
+| 1 | Yellow onion | Diced |
+| 2 large | Carrots | Peeled and sliced |
+| 2 stalks | Celery | Diced |
+| 2 cups | Kale or spinach |  |
+| 2 teaspoons | Minced garlic |  |
+| 2 tablespoons | Olive oil |  |
+| ⅓ cup | White wine | Sub wine for extra broth + lemon juice (3 tsp) |
+| 3 cups | Vegetable broth |  |
+| 1 tablespoon | Tomato paste |  |
+| ¼ teaspoon | Black pepper |  |
+| ¼ teaspoon | Red pepper flakes |  |
 | ¼ teaspoon | Italian seasoning |  |
-| 2 | bay leaves |  |
-| 1 teaspoon | thyme |  |
-| ½ teaspoon | oregano |  |
-| 1 tablespoon | tapioca starch | Sub tapioca starch for cornstarch |
+| 2 | Bay leaves |  |
+| 1 teaspoon | Thyme |  |
+| ½ teaspoon | Oregano |  |
+| 1 tablespoon | Tapioca starch | Sub tapioca starch for cornstarch |
 
 ## Instructions
 

@@ -11,7 +11,7 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 2 tbsp | Olive oil  |
+| 2 tbsp | Olive oil |
 | 1 can | Lentils | Drained and rinsed |
 | 1/2 can | Black beans | Drained and rinsed |
 | 1/2 can | Sweet corn |  |

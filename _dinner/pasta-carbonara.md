@@ -15,18 +15,18 @@ tags: [eat, recipe, vegan]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 400 g | pasta of choice | spaghetti, fettucini, bucantini, or gluten-free if preferred |
-| 1/2 cup | sun-dried tomatoes | the dry kind, not in oil, sliced |
-| 2 teaspoons | soy sauce |  |
-| 1/4 teaspoon | liquid smoke |  |
-| 1 tablespoon | olive oil |  |
-| 1 | yellow onion | chopped |
-| 3 cloves | garlic | minced |
-| 1/4 cup | all-purpose flour | gluten-free if preferred |
-| 2 1/2 cups | plant-based milk | such as soy or almond |
-| 1 tablespoon | nutritional yeast |  |
-| 3/4 teaspoon | black salt | also called kala namak, use regular salt if preferred |
-| 1/4 teaspoon | black pepper |  |
+| 400 g | Pasta of choice | Spaghetti, fettucini, bucantini, or gluten-free if preferred |
+| 1/2 cup | Sun-dried tomatoes | The dry kind, not in oil, sliced |
+| 2 teaspoons | Soy sauce |  |
+| 1/4 teaspoon | Liquid smoke |  |
+| 1 tablespoon | Olive oil |  |
+| 1 | Yellow onion | Chopped |
+| 3 cloves | Garlic | Minced |
+| 1/4 cup | All-purpose flour | Gluten-free if preferred |
+| 2 1/2 cups | Plant-based milk | Such as soy or almond |
+| 1 tablespoon | Nutritional yeast |  |
+| 3/4 teaspoon | Black salt | Also called kala namak, use regular salt if preferred |
+| 1/4 teaspoon | Black pepper |  |
 
 ## Instructions
 

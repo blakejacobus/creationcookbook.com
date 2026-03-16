@@ -15,18 +15,18 @@ tags: [eat, recipe, vegan]
 |-|-|-|
 | Serving | Ingredient | Notes |
 | - | - | - |
-| 1/2 cup | cubed potatoes | (canned is easy) |
-| 1/4 cup | cubed carrots | |
-| 1/8 cup | canola oil | |
-| 1/8 cup | almond milk | |
-| 1 tsp | lemon juice | |
-| 3 slices | pickled jalapeño | plus 1/2 tbsp brine |
-| 1/2 tbsp | tomato paste | |
-| 3/4 tsp | corn starch | |
-| 1/2 tsp | garlic powder | |
-| 1/2 tsp | onion powder | |
-| 1/2 tbsp | nutritional yeast (nooch) | |
-| 1/4 tsp | salt | |
+| 1/2 cup | Cubed potatoes | (canned is easy) |
+| 1/4 cup | Cubed carrots |  |
+| 1/8 cup | Canola oil |  |
+| 1/8 cup | Almond milk |  |
+| 1 tsp | Lemon juice |  |
+| 3 slices | Pickled jalapeño | Plus 1/2 tbsp brine |
+| 1/2 tbsp | Tomato paste |  |
+| 3/4 tsp | Corn starch |  |
+| 1/2 tsp | Garlic powder |  |
+| 1/2 tsp | Onion powder |  |
+| 1/2 tbsp | Nutritional yeast (nooch) |  |
+| 1/4 tsp | Salt |  |
 
 ## Instructions
 

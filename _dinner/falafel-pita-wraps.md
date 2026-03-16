@@ -9,14 +9,14 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 package (8-10 oz) | falafel mix |  |
-| 2-3 cups | vegetable oil | for frying |
-| 4 | pita breads |  |
-| 1 | cucumber | sliced |
-| 2 | tomatoes | sliced |
-| 1 cup | lettuce | shredded |
-| 1/2 cup | crumbled feta cheese |  |
-| 1 cup | tzatziki sauce |  |
+| 1 package (8-10 oz) | Falafel mix |  |
+| 2-3 cups | Vegetable oil | For frying |
+| 4 | Pita breads |  |
+| 1 | Cucumber | Sliced |
+| 2 | Tomatoes | Sliced |
+| 1 cup | Lettuce | Shredded |
+| 1/2 cup | Crumbled feta cheese |  |
+| 1 cup | Tzatziki sauce |  |
 
 ## Instructions
 

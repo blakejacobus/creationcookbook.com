@@ -12,7 +12,7 @@ tags: [eat, recipe]
 | 3-5 whole | Roma tomatoes |  |
 | 1 jar | Basil pesto |  |
 | 1 block | Mozzarella cheese | Can also use slices |
-| 1 loaf | Italian bread | |
+| 1 loaf | Italian bread |  |
 | 1 tub | Salted butter |  |
 
 ## Instructions

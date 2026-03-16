@@ -10,7 +10,7 @@ tags: [eat, recipe]
 | Serving | Ingredient | Notes |
 |-|-|-|
 | 2 tbsp | Olive oil |  |
-| 2-4 tbsp | Taco seasoning | Amount varies based on preference | 
+| 2-4 tbsp | Taco seasoning | Amount varies based on preference |
 | 1 bag | Gardein Ground Be'f | Can substitute other ground beef/alternative proteins |
 | 1 can | Black beans | Can substitute refried |
 | 1 can | Black olives |  |

@@ -13,18 +13,18 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1/2 cup | red lentils |  |
-| 1/4 cup | white rice |  |
-| 2 1/2 cups | vegetable stock | |
-| 1 tbsp | oil |  |
-| 1 small | leek | or 1/2 large leek, sliced |
-| 1 | bell pepper | diced fairly small (I used orange) |
-| 2 crowns | broccoli | |
-| 1 small | courgette (zucchini) | or 1/2 large courgette, diced fairly small |
-| 1 tsp | smoked paprika |  |
-| 1/2 tsp | cayenne pepper |  |
-| Pinch | black pepper |  |
-| 1 cup | grated cheddar cheese |  |
+| 1/2 cup | Red lentils |  |
+| 1/4 cup | White rice |  |
+| 2 1/2 cups | Vegetable stock |  |
+| 1 tbsp | Oil |  |
+| 1 small | Leek | Or 1/2 large leek, sliced |
+| 1 | Bell pepper | Diced fairly small (I used orange) |
+| 2 crowns | Broccoli |  |
+| 1 small | Courgette (zucchini) | Or 1/2 large courgette, diced fairly small |
+| 1 tsp | Smoked paprika |  |
+| 1/2 tsp | Cayenne pepper |  |
+| Pinch | Black pepper |  |
+| 1 cup | Grated cheddar cheese |  |
 
 ## Instructions
 

@@ -9,7 +9,7 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 4 part | Coffee | black |
+| 4 part | Coffee | Black |
 | 1 part | Whiskey | Bourbon |
 
 ## Instructions

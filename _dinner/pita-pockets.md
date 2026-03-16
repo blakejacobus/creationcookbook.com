@@ -11,18 +11,18 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 2 cans (15 oz each) | chickpeas | drained and rinsed |
-| 4-6 | pita breads |  |
-| 1 | cucumber | sliced |
-| 2 | tomatoes | diced |
-| 4 tbsp | olive oil |  |
-| 1 tsp | salt |  |
-| ½ tsp | black pepper |  |
-| 1 tsp | dried thyme |  |
-| 1 tsp | garlic powder |  |
-| 2 tsp | dried dill |  |
-| 2 cups | lettuce | shredded |
-| Splash | lemon juice | for drizzling |
+| 2 cans (15 oz each) | Chickpeas | Drained and rinsed |
+| 4-6 | Pita breads |  |
+| 1 | Cucumber | Sliced |
+| 2 | Tomatoes | Diced |
+| 4 tbsp | Olive oil |  |
+| 1 tsp | Salt |  |
+| ½ tsp | Black pepper |  |
+| 1 tsp | Dried thyme |  |
+| 1 tsp | Garlic powder |  |
+| 2 tsp | Dried dill |  |
+| 2 cups | Lettuce | Shredded |
+| Splash | Lemon juice | For drizzling |
 
 ## Instructions
 

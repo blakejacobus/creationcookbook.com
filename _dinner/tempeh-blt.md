@@ -21,28 +21,28 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 package | tempeh | sliced thin |
-| 1 tbsp | smoked paprika |  |
-| 1 tsp | garlic powder |  |
-| 1 tsp | onion powder |  |
-| 2-4 tbsp | olive oil | for roasting and frying |
-| to taste | salt & pepper |  |
-| 1 | tomato | thinly sliced |
-| 1 | avocado | peeled, cored, thinly sliced |
-| 1 head | butter lettuce | chopped |
-| 4 | sandwich buns | ciabatta or wheat |
-| 1 bulb | garlic | for roasting |
+| 1 package | Tempeh | Sliced thin |
+| 1 tbsp | Smoked paprika |  |
+| 1 tsp | Garlic powder |  |
+| 1 tsp | Onion powder |  |
+| 2-4 tbsp | Olive oil | For roasting and frying |
+| To taste | Salt & pepper |  |
+| 1 | Tomato | Thinly sliced |
+| 1 | Avocado | Peeled, cored, thinly sliced |
+| 1 head | Butter lettuce | Chopped |
+| 4 | Sandwich buns | Ciabatta or wheat |
+| 1 bulb | Garlic | For roasting |
 
 ### Roasted Garlic Dijonnaise
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1/2 cup | vegan mayo |  |
-| 2-3 tbsp | Dijon mustard | adjust to taste |
-| 1 tbsp | hot sauce | optional |
-| 1 tbsp | maple syrup |  |
-| roasted garlic | from 1 bulb | squeezed from cloves |
-| to taste | salt & pepper |  |
+| 1/2 cup | Vegan mayo |  |
+| 2-3 tbsp | Dijon mustard | Adjust to taste |
+| 1 tbsp | Hot sauce | Optional |
+| 1 tbsp | Maple syrup |  |
+| Roasted garlic | From 1 bulb | Squeezed from cloves |
+| To taste | Salt & pepper |  |
 
 ## Instructions
 

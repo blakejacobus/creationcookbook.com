@@ -17,8 +17,8 @@ THIS IS RISKY BUSINESS
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1.5 oz | spiced rum | *per person* |
-| 1.5 oz | bourbon whiskey | *per person* |
+| 1.5 oz | Spiced rum | *per person* |
+| 1.5 oz | Bourbon whiskey | *per person* |
 
 ## Instructions
 

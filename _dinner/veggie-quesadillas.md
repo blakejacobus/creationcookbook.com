@@ -18,7 +18,7 @@ THIS RECIPE NEEDS TO BE CREATED
 | 1/4 cup | Taco seasoning |  |
 | 2 tbsp | Olive oil |  |
 | 2 cups | Shredded cheese |  |
-| 1 tbsp | Hot sauce | Optional|
+| 1 tbsp | Hot sauce | Optional |
 | 1 cup | Guacamole |  |
 
 ## Instructions

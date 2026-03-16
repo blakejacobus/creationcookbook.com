@@ -13,24 +13,24 @@ https://midwestfoodieblog.com/vegetarian-lasagna-soup/#tasty-recipes-25157-jump-
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 tablespoon | olive oil |  |
-| 1 | yellow onion | diced |
-| 6 cloves | garlic | thinly sliced |
+| 1 tablespoon | Olive oil |  |
+| 1 | Yellow onion | Diced |
+| 6 cloves | Garlic | Thinly sliced |
 | 1.5 tablespoons | Italian seasoning |  |
-| 2 tablespoons | tomato paste |  |
-| 1/2 cup | basil pesto |  |
-| 1/2 cup | uncooked split red lentils |  |
-| 2 (28 oz.) cans | fire roasted crushed tomatoes |  |
-| 4 cups | vegetable broth |  |
-| 1–2 teaspoons | granulated sugar | optional |
-| 8 | uncooked lasagna noodles | broken into bite sized pieces |
-| 2–3 cups | chopped fresh baby spinach | optional |
+| 2 tablespoons | Tomato paste |  |
+| 1/2 cup | Basil pesto |  |
+| 1/2 cup | Uncooked split red lentils |  |
+| 2 (28 oz.) cans | Fire roasted crushed tomatoes |  |
+| 4 cups | Vegetable broth |  |
+| 1–2 teaspoons | Granulated sugar | Optional |
+| 8 | Uncooked lasagna noodles | Broken into bite sized pieces |
+| 2–3 cups | Chopped fresh baby spinach | Optional |
 | 1/2 cup | Parmesan cheese |  |
-| 1/2 cup | shredded mozzarella cheese |  |
-| 1 cup | whole milk ricotta cheese |  |
-| Pinch | fresh chopped parsley | for garnish |
+| 1/2 cup | Shredded mozzarella cheese |  |
+| 1 cup | Whole milk ricotta cheese |  |
+| Pinch | Fresh chopped parsley | For garnish |
 | Pinch | Kosher salt |  |
-| Pinch | fresh cracked pepper |  |
+| Pinch | Fresh cracked pepper |  |
 
 ## Instructions
 

@@ -13,24 +13,24 @@ tags: [eat, recipe]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 large | sweet potato | cut into 1/4" chunks |
-| 1 tsp | olive oil or avocado oil | for roasting |
-| 1 cup | cooked brown rice or quinoa |  |
-| 2 cups | kale | steamed, washed and de-stemmed |
-| 1/2 cup | cooked chickpeas | canned or cooked from dry |
+| 1 large | Sweet potato | Cut into 1/4" chunks |
+| 1 tsp | Olive oil or avocado oil | For roasting |
+| 1 cup | Cooked brown rice or quinoa |  |
+| 2 cups | Kale | Steamed, washed and de-stemmed |
+| 1/2 cup | Cooked chickpeas | Canned or cooked from dry |
 
 ### Creamy Peanut Sauce
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1/4 cup | peanut butter | smooth or crunchy |
-| 1 clove | garlic | chopped |
-| 2 tsp | fresh ginger | chopped |
-| 2 tbsp | rice vinegar |  |
-| 2 tbsp | low-sodium tamari or soy sauce | gluten-free if needed |
-| 2 tbsp | maple syrup |  |
-| pinch | cayenne pepper | optional, to taste |
-| as needed | water | to thin sauce |
+| 1/4 cup | Peanut butter | Smooth or crunchy |
+| 1 clove | Garlic | Chopped |
+| 2 tsp | Fresh ginger | Chopped |
+| 2 tbsp | Rice vinegar |  |
+| 2 tbsp | Low-sodium tamari or soy sauce | Gluten-free if needed |
+| 2 tbsp | Maple syrup |  |
+| Pinch | Cayenne pepper | Optional, to taste |
+| As needed | Water | To thin sauce |
 
 ## Instructions
 

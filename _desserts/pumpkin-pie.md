@@ -13,15 +13,15 @@ tags: [eat, recipe, vegan]
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 1 ¾ cups | pumpkin purée | a 14 oz can is equivalent to 1 ¾ cups; do not use pumpkin pie filling |
-| ¾ cup | full-fat coconut milk | see notes for substitutions and more info |
-| ½ cup | brown sugar |  |
-| ¼ cup | cornstarch |  |
-| ¼ cup | maple syrup |  |
-| 1 teaspoon | vanilla extract |  |
-| 2 teaspoons | pumpkin pie spice |  |
-| ½ teaspoon | ground cinnamon |  |
-| ½ teaspoon | salt |  |
+| 1 ¾ cups | Pumpkin purée | A 14 oz can is equivalent to 1 ¾ cups; do not use pumpkin pie filling |
+| ¾ cup | Full-fat coconut milk | See notes for substitutions and more info |
+| ½ cup | Brown sugar |  |
+| ¼ cup | Cornstarch |  |
+| ¼ cup | Maple syrup |  |
+| 1 teaspoon | Vanilla extract |  |
+| 2 teaspoons | Pumpkin pie spice |  |
+| ½ teaspoon | Ground cinnamon |  |
+| ½ teaspoon | Salt |  |
 | 1 Recipe | Easy Vegan Pie Crust | Can substitute 9" frozen vegan pie crust |
 | Varies | Vegan Coconut Whipped Cream | (optional) |
 

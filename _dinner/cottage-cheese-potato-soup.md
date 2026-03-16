@@ -13,15 +13,15 @@ https://mollyshomeguide.com/creamy-cottage-cheese-potato-soup-18575/
 
 | Serving | Ingredient | Notes |
 |-|-|-|
-| 8 | potatoes | peeled and quartered |
-| 1/2 | yellow onion | finely diced |
-| 1/2 cup | Tempeh | optional, for garnish |
-| 1 qt | small curd cottage cheese | do not use low-fat |
-| 1 can | evaporated milk |  |
-| 3 tbsp | butter | unsalted, like Kerrygold |
-| 2 tbsp | fresh garlic | minced |
-| Pinch | salt |  |
-| Pinch | black pepper | freshly ground for best flavor |
+| 8 | Potatoes | Peeled and quartered |
+| 1/2 | Yellow onion | Finely diced |
+| 1/2 cup | Tempeh | Optional, for garnish |
+| 1 qt | Small curd cottage cheese | Do not use low-fat |
+| 1 can | Evaporated milk |  |
+| 3 tbsp | Butter | Unsalted, like Kerrygold |
+| 2 tbsp | Fresh garlic | Minced |
+| Pinch | Salt |  |
+| Pinch | Black pepper | Freshly ground for best flavor |
 
 ## Instructions
 
