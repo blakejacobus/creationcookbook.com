@@ -1,12 +1,14 @@
 // Primary stylesheet; imported from assets/css/styles.scss
-// Color pallete: https://coolors.co/9bc995-ffb86f-986c6a-465c69-2d3047
+// Color palette tuned for better contrast and readability
 
 body {
-  background-color: #9BC995;
-  color: #2D3047;
-  font-family: 'Courier New';
-  line-height: 1.5;
-  padding: 1%;
+  background-color: #f7f1e6;
+  color: #2f2a22;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  line-height: 1.7;
+  padding: 1.35rem 1.7rem;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 // Navigation bar: https://www.w3schools.com/css/css_navbar_horizontal.asp
@@ -25,8 +27,8 @@ ul.topnav {
 
 ul.topnav li {
   float: left;
-  border-right: 1px solid #986C6A;
-  font-size: 125%;
+  border-right: 1px solid #8a5a44;
+  font-size: 110%;
   list-style-type: none; // Required for mobile to render list correctly
 }
 
@@ -42,44 +44,47 @@ ul.topnav li a {
 
 /* unvisited link */
 a:link {
-  color: #465C69;
+  color: #7a3e2f;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #465C69;
+  color: #6d4c41;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: #2D3047;
+  color: #4d2b20;
   text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-  color: #465C69;
+  color: #4d2b20;
   text-decoration: underline;
 }
 
 h1 {
-  color: #2D3047;
-  font-family: 'Courier New';
+  color: #5b3a2a;
+  font-family: 'Georgia', 'Times New Roman', serif;
   justify-content: center;
   text-align: center;
   display: flex;
+  margin-bottom: 1rem;
+  letter-spacing: 0.02em;
 }
 
 h2 {
-  color: #986C6A;
-  font-family: 'Courier New';
+  color: #8a5a44;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  margin-top: 1.5rem;
 }
 
 h3 {
-  color: #465C69;
-  font-family: 'Courier New';
+  color: #7a3e2f;
+  font-family: 'Georgia', 'Times New Roman', serif;
 }
 
 table,
@@ -87,8 +92,8 @@ th,
 td {
   border: 1px solid;
   border-collapse: collapse;
-  border-color: #2D3047;
-  padding: 8px;
+  border-color: #c9b79c;
+  padding: 10px;
 }
 
 table {
@@ -96,8 +101,8 @@ table {
 }
 
 th {
-  background-color: #986C6A;
-  color: #FFB86F;
+  background-color: #e8d9c3;
+  color: #4d2b20;
   text-align: left;
 }
 
@@ -105,14 +110,16 @@ th {
 // }
 
 footer {
-  background-color: #9BC995;
-  color: #2D3047;
-  font-family: 'Courier New';
-  padding: 5px;
+  background-color: #efe2ca;
+  color: #4d2b20;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  padding: 0.75rem 1rem;
   position: relative;
   left: 0; // Positions footer relative to left
   text-align: center;
   width: 100%;
+  margin-top: 2rem;
+  border-top: 1px solid #c9b79c;
 }
 
 .container {
