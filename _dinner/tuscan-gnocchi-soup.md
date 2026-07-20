@@ -27,6 +27,6 @@ Sub tapioca starch for cornstarch
 
 ## Instructions
 
-1. 
-1. 
-1. 
+1.
+1.
+1.

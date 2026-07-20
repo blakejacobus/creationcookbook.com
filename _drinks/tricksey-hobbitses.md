@@ -20,4 +20,3 @@ tags: [eat, recipe]
 ## Instructions
 
 1. Stir and serve over ice in a mug.
- 
