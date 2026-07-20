@@ -28,8 +28,8 @@ _Source: [Choosing Chia](https://choosingchia.com/vegan-stuffed-pepper-soup/)_
 
 ## Instructions
 
-1. Heat the olive oil in a large pot on medium-high heat
+1. Heat the olive oil in a large pot on medium-high heat.
 1. Add the onion and let cook for 3-4 minutes, then add the garlic and red pepper and cook another 2-3 minutes.
 1. Add the rest of the ingredients and stir to combine.
 1. Cover, reduce heat to low and let simmer for 30-40 minutes until the rice is tender and cooked.
-1. Top with parsley and serve
+1. Top with parsley and serve.

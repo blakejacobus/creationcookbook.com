@@ -11,11 +11,11 @@ tags: [eat, recipe]
 
 ## Equipment
 
-- Baking tray
-- Small piece of foil
-- Pan or skillet
-- Small bowl for sauce
-- Knife and cutting board
+- Baking tray.
+- Small piece of foil.
+- Pan or skillet.
+- Small bowl for sauce.
+- Knife and cutting board.
 
 ## Ingredients
 

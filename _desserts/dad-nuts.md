@@ -20,7 +20,7 @@ Aaron Jacobus
 
 ## Instructions
 
-1. Cut holes in biscuits (save holes)
-1. Fry donuts on both sides
-1. Toss in cinnamon/sugar mixture
-1. Let aerate on rack or cookie sheet in oven on warm setting or very low heat for about 15 minutes
+1. Cut holes in biscuits (save holes).
+1. Fry donuts on both sides.
+1. Toss in cinnamon/sugar mixture.
+1. Let aerate on rack or cookie sheet in oven on warm setting or very low heat for about 15 minutes.

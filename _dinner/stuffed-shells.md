@@ -13,12 +13,12 @@ tags: [eat, recipe]
 
 ## Equipment
 
-- large bowl
-- 9" x 13" baking dish
-- Measuring cup
-- Measuring spoons
-- large spoon for mixing
-- teaspoon for filling
+- large bowl.
+- 9" x 13" baking dish.
+- Measuring cup.
+- Measuring spoons.
+- large spoon for mixing.
+- teaspoon for filling.
 
 ## Ingredients
 

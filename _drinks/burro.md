@@ -27,6 +27,6 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Shake with ice
-1. Strain over ice
-1. Can carnish with cucumber or jalapeno
+1. Shake with ice.
+1. Strain over ice.
+1. Can garnish with cucumber or jalapeno.

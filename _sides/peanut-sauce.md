@@ -19,7 +19,7 @@ tags: [eat, recipe, side]
 
 ## Instructions
 
-1. Mix all ingredients into a blender (adding liquids first can keep peanut butter from sticking)
-1. Blend on low until well mixed
-1. Pulse on medium/high briefly
-1. Serve over dishes
+1. Mix all ingredients into a blender (adding liquids first can keep peanut butter from sticking).
+1. Blend on low until well mixed.
+1. Pulse on medium/high briefly.
+1. Serve over dishes.

@@ -22,9 +22,9 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Preheat oven to 450 degrees
-1. Chop veggies and sausage links into bite-sized squares/slices
-1. Commbine with olive oil and spices in a large bowl
-1. Spread on baking sheet (may need multiple)
-1. Bake for 20 minutes, rotating halfway through
-1. Serve with parmesan
+1. Preheat oven to 450 degrees.
+1. Chop veggies and sausage links into bite-sized squares/slices.
+1. Combine with olive oil and spices in a large bowl.
+1. Spread on baking sheet (may need multiple).
+1. Bake for 20 minutes, rotating halfway through.
+1. Serve with parmesan.

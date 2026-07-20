@@ -16,4 +16,4 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Stir and serve over ice
+1. Stir and serve over ice.

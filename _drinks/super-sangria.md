@@ -18,5 +18,5 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Pre-mix to infuse fruit or make on-demand
-1. Serve chilled or over ice
+1. Pre-mix to infuse fruit or make on-demand.
+1. Serve chilled or over ice.

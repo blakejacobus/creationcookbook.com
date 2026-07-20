@@ -34,7 +34,7 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Create filling: 
+1. Create filling.
     1. Heat oil in a large pan over high heat. 
     1. Add in the onions and cook for 5-10 minutes or until caramelized, stirring consistently to prevent burning. 
     1. Add in the garlic, rosemary and thyme. Cook for a few seconds. 
@@ -43,9 +43,9 @@ tags: [eat, recipe]
     1. Add in the spinach and nutritional yeast. 
     1. Cook for 5-6 minutes or until the spinach has wilted and all the excess water has been cooked off. 
     1. Allow the filling to cool completely. Grab a sheet of plastic wrap, place the mushroom filling on one end and shape it into a 10-inch log. Starting with the mushroom filling side, tightly wrap it with plastic wrap. 
-    1. **Refrigerate for at least 1 hour or up to 3 days.**
+    1. **Refrigerate for at least 1 hour or up to 3 days.**.
 1. Preheat oven to 428°F.
-1. Shaping: 
+1. Shaping.
     1. Place the second puff pastry sheet onto a baking sheet lined with parchment paper. 
     1. Grab the chilled log of mushrooms and place it on the bottom edge of the puff pastry. 
         - If it falls apart when you do this don't worry! Just reshape it into a 10-inch log. 

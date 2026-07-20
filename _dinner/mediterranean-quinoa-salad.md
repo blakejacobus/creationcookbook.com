@@ -23,8 +23,8 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. In a medium pot, combine water and quinoa. Bring to a simmer and cook until all water is absorbed, about 15-20 minutes
-1. While quinoa cooks, prep veggies
-1. Mix olive oil, lemon juice, feta, salt and pepper to make the dressing
-1. When quinoa is cooked, combine with veggies and dressing
-1. Serve as-is or cold from the fridge
+1. In a medium pot, combine water and quinoa. Bring to a simmer and cook until all water is absorbed, about 15-20 minutes.
+1. While quinoa cooks, prep veggies.
+1. Mix olive oil, lemon juice, feta, salt and pepper to make the dressing.
+1. When quinoa is cooked, combine with veggies and dressing.
+1. Serve as-is or cold from the fridge.

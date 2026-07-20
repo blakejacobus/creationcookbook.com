@@ -31,8 +31,8 @@ Aunti Lolo Jacobus
 
 ## Instructions
 
-1. Sauté onions and garlic in butter
-1. Add tomato paste
-1. Add vegetable broth (maybe 1 1/2 cups) and half and half until color and texture resembles tomato soup
-1. Season to taste with salt, pepper, garlic salt, onion powder, oregano, and red pepper flakes
-1. Toss with cooked pasta, spinach, and grillers
+1. Sauté onions and garlic in butter.
+1. Add tomato paste.
+1. Add vegetable broth (maybe 1 1/2 cups) and half and half until color and texture resembles tomato soup.
+1. Season to taste with salt, pepper, garlic salt, onion powder, oregano, and red pepper flakes.
+1. Toss with cooked pasta, spinach, and grillers.
