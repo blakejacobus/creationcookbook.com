@@ -41,6 +41,17 @@ title: Cookbook
   </details>
 
   <details>
+    <summary><h3 style="display: inline-block;">Feasts</h3></summary>
+    <ul>
+      {% for feasts in site.feasts %}
+      <li>
+        <p><a href="{{ feasts.url }}">{{ feasts.name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <details>
     <summary><h3 style="display: inline-block;">Sides</h3></summary>
     <ul>
       {% for sides in site.sides %}

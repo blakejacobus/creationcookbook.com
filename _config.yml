@@ -11,6 +11,9 @@ collections:
   dinner:
     output: true
     sort_by: name
+  feasts:
+    output: true
+    sort_by: name
   sides:
     output: true
     sort_by: name
@@ -37,6 +40,11 @@ defaults:
   - scope:
       path: ""
       type: "dinner"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "feasts"
     values:
       layout: "recipe"
   - scope:
