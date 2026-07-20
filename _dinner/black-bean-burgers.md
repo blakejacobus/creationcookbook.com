@@ -40,7 +40,7 @@ _Source: [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black
 1. Blend mixture well, stopping occasionally to mix ingredients by hand, as needed.
 1. Remove blender cup/bowl from base and use as mixing bowl to [fold in](https://www.youtube.com/watch?v=fCVKCUB5w50) remaining black beans for texture.
 1. Preheat oven to 375 degrees.
-1. Scoop 1/3 cup of mixture out and place on cookie sheet (recommend greasing or lining sheet). 
+1. Scoop 1/3 cup of mixture out and place on cookie sheet (recommend greasing or lining sheet).
 1. Repeat with remainder of mixture, keeping scoops 2-3 inches apart.
 1. Gently form scoops into patty shape.
 1. Bake patties for 15 minutes on one side and then flip and cook for another 10 minutes (25 minutes total).

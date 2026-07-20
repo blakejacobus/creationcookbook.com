@@ -35,7 +35,7 @@ tags: [eat, recipe]
     1. Cooking potatoes and eggs at the same time is recommended, but it will require 3 or more burners, and you may want to prepare eggs before starting.
 1. Gravy.
     1. In a saucepan, melt butter over medium heat and stir in flour to make a roux.
-    1. Add milk and let it bubble and thicken, stirring frequently. 
+    1. Add milk and let it bubble and thicken, stirring frequently.
     1. Add salt and lots of pepper.
     1. It's done when it's thick enough to stick to the spoon.
 1. Cut biscuits in half and pour gravy over them.

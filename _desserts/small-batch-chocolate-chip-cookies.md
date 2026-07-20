@@ -25,7 +25,7 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Preheat oven to 350°F. Line a baking sheet with parchment paper. 
+1. Preheat oven to 350°F. Line a baking sheet with parchment paper.
 1. In a medium sized bowl, using a silicone spatula, stir together butter and both sugars until well combined (at least one minute). Add the egg yolk and vanilla, stirring until combined.
 1. Sprinkle the flour, baking soda, and salt over the butter mixture. Stir until well combined. Stir in the chocolate chips.
 1. Scoop the dough into generous 2-tablespoon mounds. Place on the baking sheet a few inches apart (you should have 5-6 dough balls). If desired, press some additional chocolate chips onto the tops. Mound the dough balls higher rather than wider to ensure they won't spread too thin. Bake for about 9-12 minutes**, until the edges are beginning to get golden brown and the centers are still slightly under-baked. Place the baking sheet on a wire rack to let the cookies cool and firm up.

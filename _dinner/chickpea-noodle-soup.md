@@ -33,15 +33,15 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Heat oil in a large heavy bottom pot over medium high heat. 
-1. Add carrot, celery, and onion along with a couple large pinches of salt and pepper. 
-1. Cook for 8 minutes, stirring occasionally. 
-1. Add garlic, curry powder, ginger and turmeric. Cook for another minute, stirring frequently. 
-1. Add a splash of veggie broth to deglaze the pan and scrape all the yummy bits off the bottom. 
-1. Add coconut milk, rotini pasta, and chickpeas. 
+1. Heat oil in a large heavy bottom pot over medium high heat.
+1. Add carrot, celery, and onion along with a couple large pinches of salt and pepper.
+1. Cook for 8 minutes, stirring occasionally.
+1. Add garlic, curry powder, ginger and turmeric. Cook for another minute, stirring frequently.
+1. Add a splash of veggie broth to deglaze the pan and scrape all the yummy bits off the bottom.
+1. Add coconut milk, rotini pasta, and chickpeas.
 1. Add remaining vegetable broth and bay leaves along with another couple large pinches of salt and pepper.
-1. With heat on medium high, bring soup to a simmer. 
-1. Cover and turn heat to low. 
-1. Simmer for 6-10 minutes or until pasta is just al dente. 
-1. Stir in apple cider vinegar and season Pinch with salt and pepper. 
+1. With heat on medium high, bring soup to a simmer.
+1. Cover and turn heat to low.
+1. Simmer for 6-10 minutes or until pasta is just al dente.
+1. Stir in apple cider vinegar and season Pinch with salt and pepper.
 1. Garnish with fresh chopped parsley and enjoy!
