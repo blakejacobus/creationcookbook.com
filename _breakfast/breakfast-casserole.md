@@ -26,6 +26,6 @@ tags: [eat, recipe]
 1. In a mixing bowl, add vegetables, bread, sausage, cheese, and stir together.
 1. Pour mixture into greased 9x13" baking dish.
 1. Cover and chill in overnight.
-1. Bake at 350 degrees:
-    - 45-60 minutes covered
-    - Additional 30 minutes uncovered
+1. Bake at 350 degrees.
+    - 45-60 minutes covered.
+    - Additional 30 minutes uncovered.

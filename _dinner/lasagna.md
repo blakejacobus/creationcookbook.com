@@ -39,19 +39,19 @@ Include alternative oven cooking instructions.
 
 ## Instructions
 
-1. Chop onion, mushrooms, and spinach
-1. Drain tofu for about 10 minutes and place in a large bowl
-1. Add remaining ricotta ingredients to the bowl with tofu
-1. Heat a large pan with oil over medium heat
-1. Saute onion, mushrooms, spinach, and soy sauce until veggies are wilted; set aside
-1. Oil slow cooker and pre-heat on high while preparing lasagna
-1. Create first layer of lasagna by spreading the following ingredients on top of each other:
-    - 1.5 cups of marinara sauce across bottom of crockpot
-    - 3 sheets of lasagna (broken to fit)
-    - 1/3 of the ricotta mix
-    - 1/2 of the veggies
-    - 3/4 cups of shredded cheese
-1. Repeat with another layer, finishing off the veggies
-1. For the third layer, skip veggies (as none should remain) and shredded cheese but add an additional layer of sauce on top
-1. Cover the slow cooker and cook on high for 2 hours, sprinkle remaining shredded cheese, and cook for another 30 minutes
-1. Let lasagne cool with slow cooker off and lid slightly ajar for 30-60 minutes
+1. Chop onion, mushrooms, and spinach.
+1. Drain tofu for about 10 minutes and place in a large bowl.
+1. Add remaining ricotta ingredients to the bowl with tofu.
+1. Heat a large pan with oil over medium heat.
+1. Saute onion, mushrooms, spinach, and soy sauce until veggies are wilted; set aside.
+1. Oil slow cooker and pre-heat on high while preparing lasagna.
+1. Create first layer of lasagna by spreading the following ingredients on top of each other.
+    - 1.5 cups of marinara sauce across bottom of crockpot.
+    - 3 sheets of lasagna (broken to fit).
+    - 1/3 of the ricotta mix.
+    - 1/2 of the veggies.
+    - 3/4 cups of shredded cheese.
+1. Repeat with another layer, finishing off the veggies.
+1. For the third layer, skip veggies (as none should remain) and shredded cheese but add an additional layer of sauce on top.
+1. Cover the slow cooker and cook on high for 2 hours, sprinkle remaining shredded cheese, and cook for another 30 minutes.
+1. Let lasagne cool with slow cooker off and lid slightly ajar for 30-60 minutes.

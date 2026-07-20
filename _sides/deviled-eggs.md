@@ -39,5 +39,5 @@ Demonizing:
 1. Slice eggs in half lengthwise.  
 1. Remove yolks and transfer to a medium-sized bowl.  
 1. Add mayo, butter, mustards, pickle juice, sugar, salt, pepper, and Tabasco sauce.  Use a fork to mash well.
-1. ¼ cup (55 g) mayo, 1 Tablespoon butter, 2 teaspoons yellow mustard, 2 teaspoons dijon mustard, 2 teaspoons sweet gherkin pickle juice, 1 teaspoon sugar, ⅛ teaspoon salt, ⅛ teaspoon pepper, dash Tabasco sauce
+1. ¼ cup (55 g) mayo, 1 Tablespoon butter, 2 teaspoons yellow mustard, 2 teaspoons dijon mustard, 2 teaspoons sweet gherkin pickle juice, 1 teaspoon sugar, ⅛ teaspoon salt, ⅛ teaspoon pepper, dash Tabasco sauce.
 1. Spoon filling into each egg white.  Sprinkle with paprika and serve.

@@ -23,12 +23,12 @@ THIS RECIPE NEEDS TO BE CREATED
 
 ## Instructions
 
-1. Heat pan or skillet over low/medium heat with olive oil
-1. Cook frozen veggies until soft
-1. Add beans, corn, and taco seasoning
-1. Heat another pan over low/medium heat
-1. Add tortilla, sprinkle one side with cheese
-1. Add filling over the cheese; sprinkle another layer of cheese; add hot sauce if using
-1. Fold other side of tortilla over filling
+1. Heat pan or skillet over low/medium heat with olive oil.
+1. Cook frozen veggies until soft.
+1. Add beans, corn, and taco seasoning.
+1. Heat another pan over low/medium heat.
+1. Add tortilla, sprinkle one side with cheese.
+1. Add filling over the cheese; sprinkle another layer of cheese; add hot sauce if using.
+1. Fold other side of tortilla over filling.
 1. Cook until cheese is melting and tortilla is golden/brown; flip; repeat.
-1. Serve with guacamole and chips
+1. Serve with guacamole and chips.

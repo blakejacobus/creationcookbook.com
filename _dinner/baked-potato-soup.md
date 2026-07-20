@@ -20,7 +20,7 @@ tags: [eat, recipe, crockpot]
 ## Instructions
 
 1. Rinse, skin, and dice potatoes.
-1. Using a crockpot or slow-cooker, cook potatoes in broth:
+1. Using a crockpot or slow-cooker, cook potatoes in broth.
     - Low for 4-6 hours or high for 3-4 hours.
 1. 30 minutes before end of cook time, melt butter in a skillet on medium heat.
 1. Whisk in flour and cook until bubbling.

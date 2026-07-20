@@ -23,6 +23,6 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Add all ingredients to slow cooker
-1. Stir, cover, and cook on low for 6 hours
-1. Serve with sour cream, cheese, and cornbread
+1. Add all ingredients to slow cooker.
+1. Stir, cover, and cook on low for 6 hours.
+1. Serve with sour cream, cheese, and cornbread.

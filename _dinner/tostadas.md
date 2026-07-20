@@ -20,9 +20,9 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Preheat oven to 350 degrees
-1. In a small pot, heat refried beans over low/medium heat, mixing occasionally
-1. In a large skillet, heat olive oil over medium heat
-1. Mix black beans, corn, and taco seasoning in skillet and cook for about 5 minutes
-1. Cook tortillas for 10 minutes, flipping halfway through
-1. Once everything is cooked, spread beans and corn over tortillas and top with guacamole
+1. Preheat oven to 350 degrees.
+1. In a small pot, heat refried beans over low/medium heat, mixing occasionally.
+1. In a large skillet, heat olive oil over medium heat.
+1. Mix black beans, corn, and taco seasoning in skillet and cook for about 5 minutes.
+1. Cook tortillas for 10 minutes, flipping halfway through.
+1. Once everything is cooked, spread beans and corn over tortillas and top with guacamole.

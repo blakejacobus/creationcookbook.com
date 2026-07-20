@@ -17,7 +17,7 @@ tags: [eat, recipe, side]
 
 ## Instructions
 
-1. Preheat oven to 425 degrees
+1. Preheat oven to 425 degrees.
 1. Slice potatoes almost all the way to the bottom, leaving them intact, as thin as possible.
 1. Melt butter in a small bowl.
 1. Drizzle oil, salt, butter, and pepper over potatoes.

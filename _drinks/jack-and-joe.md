@@ -14,6 +14,6 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Pour alcohol
-1. Pour coffee
-1. Drink
+1. Pour alcohol.
+1. Pour coffee.
+1. Drink.

@@ -25,6 +25,6 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. Dump chickpeas into a large glass bowl and mash about 50-75% of the way
-1. Add all other inredients and mix well
-1. Service on a croissant with lettuce
+1. Dump chickpeas into a large glass bowl and mash about 50-75% of the way.
+1. Add all other ingredients and mix well.
+1. Serve on a croissant with lettuce.

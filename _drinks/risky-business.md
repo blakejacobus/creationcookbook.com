@@ -22,6 +22,6 @@ THIS IS RISKY BUSINESS
 
 ## Instructions
 
-1. Pour into a large cup or bucket
-1. Place a straw for each person (use tubing for best results)
-1. Everyone draws from their straw/tube until the container is empty
+1. Pour into a large cup or bucket.
+1. Place a straw for each person (use tubing for best results).
+1. Everyone draws from their straw/tube until the container is empty.

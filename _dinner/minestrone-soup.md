@@ -35,9 +35,9 @@ This slow-cooker meal is prepared in two phases.
 ## Instructions
 
 ### Phase 1
-1. Add ingredients to slow cooker, stir, and cover
-1. Cook on low for 6-8 hours or high for 3-4 hours
+1. Add ingredients to slow cooker, stir, and cover.
+1. Cook on low for 6-8 hours or high for 3-4 hours.
 
 ### Phase 2
-1. 30 minutes before end of cook time, add remaining ingredients and cook on high
-1. Serve with parmesan and bread
+1. 30 minutes before end of cook time, add remaining ingredients and cook on high.
+1. Serve with parmesan and bread.

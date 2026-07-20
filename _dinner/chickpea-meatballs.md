@@ -34,7 +34,7 @@ _Source: [Minimalist Baker](https://minimalistbaker.com/simple-vegan-meatballs/#
 
 ## Instructions
 
-1. Preheat oven to 375 F
+1. Preheat oven to 375 F.
 1. Heat olive oil in a large skillet over medium heat.
 1. Saute onion and garlic until soft and translucent (3-5 minutes), reduce heat, and set aside.
 1. Drain and rinse chickpeas.

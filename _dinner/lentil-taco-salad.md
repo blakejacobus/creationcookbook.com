@@ -30,9 +30,9 @@ tags: [eat, recipe]
 
 ## Instructions
 
-1. In a medium pan, heat olive oil over low/medium heat
-1. Cook beans and corn for about 5 minutes
-1. Add lentils and coat with taco seasoning
-1. Cook for another 5 minutes or until soft
-1. Add toppings
-1. Serve as taco filling or as a bowl
+1. In a medium pan, heat olive oil over low/medium heat.
+1. Cook beans and corn for about 5 minutes.
+1. Add lentils and coat with taco seasoning.
+1. Cook for another 5 minutes or until soft.
+1. Add toppings.
+1. Serve as taco filling or as a bowl.

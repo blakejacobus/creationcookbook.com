@@ -22,12 +22,12 @@ tags: [eat, recipe, slow-cooker]
 
 ## Instructions
 
-1. Cut out the top of each bell pepper, around the stem, and discard the top
-1. Hollow out the bell peppers with a spoon
-1. Coat slow cooker with oil
-1. Combine all ingredients in a large bowl
-1. Stuff filling into the peppers
-1. Place peppers in the slow-cooker, standing upright
-1. Cook on low for 3-4 hours or high for 2-3 hours (depending how soft you want the peppers to be)
-1. Cover peppers with shredded cheese and let cook for an additional 10 minutes, or until melted
-1. Serve with sour cream
+1. Cut out the top of each bell pepper, around the stem, and discard the top.
+1. Hollow out the bell peppers with a spoon.
+1. Coat slow cooker with oil.
+1. Combine all ingredients in a large bowl.
+1. Stuff filling into the peppers.
+1. Place peppers in the slow-cooker, standing upright.
+1. Cook on low for 3-4 hours or high for 2-3 hours (depending how soft you want the peppers to be).
+1. Cover peppers with shredded cheese and let cook for an additional 10 minutes, or until melted.
+1. Serve with sour cream.

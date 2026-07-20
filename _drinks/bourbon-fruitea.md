@@ -33,5 +33,5 @@ A civilized man's "Jack & Coke", the Bourbon Fruitea is an earthy cocktail sweet
 
 ## Instructions
 
-1. Mix all of the ingredients into a pitcher and stir
-1. Let sit for infusion or serve right away
+1. Mix all of the ingredients into a pitcher and stir.
+1. Let sit for infusion or serve right away.
