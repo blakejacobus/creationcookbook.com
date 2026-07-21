@@ -8,8 +8,10 @@ body {
   line-height: 1.7;
   padding: 1.35rem 0;
   max-width: 960px;
+  width: 100%;
   margin: 0 auto;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 // Navigation bar: https://www.w3schools.com/css/css_navbar_horizontal.asp
@@ -24,6 +26,8 @@ ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 ul.topnav li {
@@ -39,10 +43,16 @@ ul.topnav li {
     padding-right: 0.75rem;
   }
 
+  ul.topnav {
+    display: block;
+    width: 100%;
+  }
+
   ul.topnav li {
     float: none;
     border-right: none;
     border-bottom: 1px solid #8a5a44;
+    text-align: center;
   }
 
   .container {
@@ -52,6 +62,12 @@ ul.topnav li {
   .image {
     width: 100%;
     max-width: 100%;
+  }
+
+  footer {
+    margin-left: 0;
+    margin-right: 0;
+    box-sizing: border-box;
   }
 }
 
@@ -138,11 +154,13 @@ footer {
   font-family: 'Georgia', 'Times New Roman', serif;
   padding: 0.75rem 1rem;
   position: relative;
-  left: 0; // Positions footer relative to left
+  left: 0;
   text-align: center;
   width: 100%;
-  margin-top: 2rem;
+  max-width: 100%;
+  margin: 2rem auto 0;
   border-top: 1px solid #c9b79c;
+  box-sizing: border-box;
 }
 
 .container {
