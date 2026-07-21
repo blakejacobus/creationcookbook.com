@@ -6,9 +6,10 @@ body {
   color: #2f2a22;
   font-family: 'Georgia', 'Times New Roman', serif;
   line-height: 1.7;
-  padding: 1.35rem 1.7rem;
+  padding: 1.35rem 0;
   max-width: 960px;
   margin: 0 auto;
+  box-sizing: border-box;
 }
 
 // Navigation bar: https://www.w3schools.com/css/css_navbar_horizontal.asp
@@ -30,6 +31,28 @@ ul.topnav li {
   border-right: 1px solid #8a5a44;
   font-size: 110%;
   list-style-type: none; // Required for mobile to render list correctly
+}
+
+@media (max-width: 600px) {
+  body {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+
+  ul.topnav li {
+    float: none;
+    border-right: none;
+    border-bottom: 1px solid #8a5a44;
+  }
+
+  .container {
+    display: block;
+  }
+
+  .image {
+    width: 100%;
+    max-width: 100%;
+  }
 }
 
 ul.topnav li:last-child {
