@@ -9,16 +9,16 @@
 </head>
 
 <body>
+  <div class="page-wrap">
+    {% include navigation.html %}
 
-  {% include navigation.html %}
+    {{ content }}
 
-  {{ content }}
-
+    <footer>
+      <p>Created by <a href="https://github.com/blakejacobus/creationcookbook.com">Blake Jacobus</a></p>
+      <p>Iconography by James Lane</p>
+    </footer>
+  </div>
 </body>
-
-<footer>
-  <p>Created by <a href="https://github.com/blakejacobus/creationcookbook.com">Blake Jacobus</a></p>
-  <p>Iconography by James Lane</p>
-</footer>
 
 </html>
