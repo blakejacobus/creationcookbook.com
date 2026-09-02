@@ -13,7 +13,7 @@ tags: [eat, recipe]
 | 2/3 cup | Uncooked quinoa |  |
 | 1 1/3 cup | Water |  |
 | 1 cup | Cucumber | Diced |
-| 1 cup | Tomato | Rome or cheery; Diced |
+| 1 cup | Tomato | Roma or cherry; Diced |
 | 1 can | Sliced black olives | Small can, if available |
 | 1/4 cup | Feta cheese |  |
 | 1/4 cup | Olive oil |  |

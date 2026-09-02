@@ -29,7 +29,7 @@ Both recipes below use these common ingredients.
 | 1/2 tbsp | Dijon mustard | Can substitute 1/2 tsp mustard powder |
 | 1/2 tsp | Poultry seasoning |  |
 | 2 tsp | Dill |  |
-| 1/3 cup | Slivered almonds |  |
+| 1/3 cup | Sliced almonds |  |
 
 #### Option B
 
